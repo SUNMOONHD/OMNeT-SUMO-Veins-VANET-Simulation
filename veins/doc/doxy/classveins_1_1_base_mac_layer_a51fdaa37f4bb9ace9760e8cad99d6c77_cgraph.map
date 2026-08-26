@@ -1,0 +1,4 @@
+<map id="veins::BaseMacLayer::getMACAddress" name="veins::BaseMacLayer::getMACAddress">
+<area shape="rect" id="node1" title="Returns the MAC address of this MAC module." alt="" coords="5,5,165,47"/>
+<area shape="rect" id="node2" href="$classveins_1_1_l_address.html#aa4c72481eb930988da1272c5867ff401" title="NULL address for L2 addresses." alt="" coords="213,13,396,39"/>
+</map>

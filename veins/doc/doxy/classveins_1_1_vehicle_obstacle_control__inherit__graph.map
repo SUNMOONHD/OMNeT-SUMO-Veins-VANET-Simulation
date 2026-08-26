@@ -1,0 +1,4 @@
+<map id="veins::VehicleObstacleControl" name="veins::VehicleObstacleControl">
+<area shape="rect" id="node1" title="VehicleObstacleControl models moving obstacles that block radio transmissions." alt="" coords="5,80,223,107"/>
+<area shape="rect" id="node2" title=" " alt="" coords="53,5,175,32"/>
+</map>

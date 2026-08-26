@@ -1,0 +1,5 @@
+<map id="veins::PhyLayer80211p::initializeSimplePathlossModel" name="veins::PhyLayer80211p::initializeSimplePathlossModel">
+<area shape="rect" id="node1" title="Creates and initializes a SimplePathlossModel with the passed parameter values." alt="" coords="5,39,232,80"/>
+<area shape="rect" id="node2" href="$classveins_1_1_base_world_utility.html#a08a8c00b81e5b70ab4cdfe611d4169b7" title="Returns the playgroundSize." alt="" coords="280,5,455,47"/>
+<area shape="rect" id="node3" href="$classveins_1_1_base_world_utility.html#ac0e47ec8501896bb97172a70c31d7e06" title="Returns true if our playground represents a torus (borders are connected)" alt="" coords="280,71,455,112"/>
+</map>

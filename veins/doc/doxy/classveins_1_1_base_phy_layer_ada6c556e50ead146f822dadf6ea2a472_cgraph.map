@@ -1,0 +1,5 @@
+<map id="veins::BasePhyLayer::finishRadioSwitching" name="veins::BasePhyLayer::finishRadioSwitching">
+<area shape="rect" id="node1" title="Called when the switching process of the Radio is finished." alt="" coords="5,5,172,47"/>
+<area shape="rect" id="node2" href="$classveins_1_1_base_phy_layer.html#a7839a1e342516ba1cde3a001a72965f3" title="Send the given message to via the control gate to the mac." alt="" coords="220,5,396,47"/>
+<area shape="rect" id="node3" href="$classveins_1_1_base_phy_layer.html#aaa439e85a8bc20a39477055aecf04993" title="Send the passed control message to the upper layer." alt="" coords="444,5,628,47"/>
+</map>

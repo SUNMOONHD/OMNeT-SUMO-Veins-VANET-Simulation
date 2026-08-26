@@ -1,0 +1,5 @@
+<map id="veins::Mac1609_4::handleBroadcast" name="veins::Mac1609_4::handleBroadcast">
+<area shape="rect" id="node1" title="Handle received broadcast." alt="" coords="5,5,196,47"/>
+<area shape="rect" id="node2" href="$classveins_1_1_base_layer.html#adbf061566606041db811b519f0400ed5" title="Sends a message to the upper layer." alt="" coords="244,13,435,39"/>
+<area shape="rect" id="node3" href="$classveins_1_1_base_layer.html#a33f4f320f4b6c4ec48651847338ff47f" title=" " alt="" coords="483,5,665,47"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="veins::Signal::atFrequency" name="veins::Signal::atFrequency">
+<area shape="rect" id="node1" title="Get the power in milliwatt for the given frequency." alt="" coords="5,5,199,32"/>
+<area shape="rect" id="node2" href="$classveins_1_1_spectrum.html#a5c315bfce918bdc7896ef94a35ee9d7c" title=" " alt="" coords="247,5,433,32"/>
+</map>

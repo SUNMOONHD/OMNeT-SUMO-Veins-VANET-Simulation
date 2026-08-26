@@ -1,0 +1,102 @@
+<map id="veins::socket" name="veins::socket">
+<area shape="rect" id="node1" title=" " alt="" coords="2436,1451,2543,1478"/>
+<area shape="rect" id="node2" href="$classveins_1_1_tra_c_i_connection.html#a877f117bb16b8c6097fd1419058b1e2f" title=" " alt="" coords="1959,340,2129,381"/>
+<area shape="rect" id="node5" href="$classveins_1_1_tra_c_i_scenario_manager_forker.html#a7144d9f143ab51906797efbe4f4b0684" title=" " alt="" coords="2177,1509,2388,1551"/>
+<area shape="rect" id="node6" href="$classveins_1_1_tra_c_i_connection.html#abec53685d1816f11e2ab2797bdc467fb" title="receives a message via TraCI (and strips the header)" alt="" coords="2197,1444,2368,1485"/>
+<area shape="rect" id="node99" href="$classveins_1_1_tra_c_i_connection.html#ae9525e27e903007d2fb3382e790a748a" title="sends a message via TraCI (after adding the header)" alt="" coords="2197,1379,2368,1420"/>
+<area shape="rect" id="node100" href="$classveins_1_1_tra_c_i_connection.html#aa7892cc48ded4b9bba78c9d7c653bb08" title=" " alt="" coords="2197,1575,2368,1616"/>
+<area shape="rect" id="node3" href="$classveins_1_1_tra_c_i_scenario_manager.html#a86a0b91aab8823c087c33b99f3a06b1f" title=" " alt="" coords="279,96,490,137"/>
+<area shape="rect" id="node4" href="$classveins_1_1_tra_c_i_scenario_manager.html#ac66ce95372a25d1860ad24748363090d" title=" " alt="" coords="5,96,216,137"/>
+<area shape="rect" id="node7" href="$classveins_1_1_tra_c_i_connection.html#aaf49494fd564d7e88f1c539d9fd8aff8" title="sends a single command via TraCI, checks status response, returns additional responses." alt="" coords="1959,1444,2129,1485"/>
+<area shape="rect" id="node8" href="$classveins_1_1_tra_c_i_command_interface.html#ac993f428c814e092e6d7326e2af150eb" title=" " alt="" coords="1675,529,1898,571"/>
+<area shape="rect" id="node23" href="$classveins_1_1_tra_c_i_command_interface.html#a1d528260cf5344fffba0a59127881d1d" title=" " alt="" coords="1675,595,1898,636"/>
+<area shape="rect" id="node24" href="$classveins_1_1_tra_c_i_command_interface.html#ac13b8a917e556bf5fce547739692a08f" title=" " alt="" coords="1675,725,1898,767"/>
+<area shape="rect" id="node25" href="$classveins_1_1_tra_c_i_command_interface.html#a1c77ade5bdd9c23844e97a59825fae1b" title="Adds a vehicle to the simulation." alt="" coords="1675,856,1898,897"/>
+<area shape="rect" id="node28" href="$classveins_1_1_tra_c_i_command_interface_1_1_vehicle.html#a20cdfcef89ebb3d4609e42d64c4c3a66" title=" " alt="" coords="1675,921,1898,963"/>
+<area shape="rect" id="node30" href="$classveins_1_1_tra_c_i_command_interface_1_1_vehicle.html#a21e9c36ca8383916392d392f31d39ea2" title=" " alt="" coords="1675,987,1898,1028"/>
+<area shape="rect" id="node31" href="$classveins_1_1_tra_c_i_command_interface.html#a7e859f8c0e52898b3a7c4a672c77799c" title=" " alt="" coords="1675,1052,1898,1093"/>
+<area shape="rect" id="node32" href="$classveins_1_1_tra_c_i_command_interface.html#aa7e8c7a184c23c51461230c8d3e6ba24" title=" " alt="" coords="1675,1117,1898,1159"/>
+<area shape="rect" id="node33" href="$classveins_1_1_tra_c_i_command_interface.html#a6027162d237a5867d919722cfe2dc73e" title=" " alt="" coords="1675,1183,1898,1224"/>
+<area shape="rect" id="node35" href="$classveins_1_1_tra_c_i_command_interface.html#a7bdc87301e7f33d47a380aaaf81f30b4" title=" " alt="" coords="1675,1248,1898,1289"/>
+<area shape="rect" id="node36" href="$classveins_1_1_tra_c_i_command_interface.html#a2c4fd212793ec76df154cd326d38a328" title=" " alt="" coords="1675,1313,1898,1355"/>
+<area shape="rect" id="node37" href="$classveins_1_1_tra_c_i_command_interface.html#af544e901f18e872a684a0b1279f60f45" title=" " alt="" coords="1675,791,1898,832"/>
+<area shape="rect" id="node49" href="$classveins_1_1_tra_c_i_command_interface.html#a2d25773a1c4caaf427fea411f6f54175" title=" " alt="" coords="1675,1379,1898,1420"/>
+<area shape="rect" id="node50" href="$classveins_1_1_tra_c_i_command_interface.html#a9db046823c1c043adab226d8932667fa" title=" " alt="" coords="1675,1444,1898,1485"/>
+<area shape="rect" id="node51" href="$classveins_1_1_tra_c_i_command_interface.html#ac2c87f757b5b3ea6cf5ebbdef5f21312" title=" " alt="" coords="1675,1509,1898,1551"/>
+<area shape="rect" id="node53" href="$classveins_1_1_tra_c_i_command_interface_1_1_vehicle.html#a4712aa46a29d0cbf598fd594956f5bb8" title=" " alt="" coords="1675,1575,1898,1616"/>
+<area shape="rect" id="node54" href="$classveins_1_1_tra_c_i_command_interface_1_1_trafficlight.html#a20fabd5d6ea59b96f3cb983f83ab5e16" title=" " alt="" coords="1671,1640,1902,1681"/>
+<area shape="rect" id="node55" href="$classveins_1_1_tra_c_i_command_interface.html#a85043c2302f508377932c5ae6fe516b0" title="Get the distance between two arbitrary positions." alt="" coords="1675,1705,1898,1747"/>
+<area shape="rect" id="node56" href="$classveins_1_1_tra_c_i_command_interface_1_1_vehicle.html#aa0a47b7b5095deb80babcfe6702e84aa" title=" " alt="" coords="1675,1771,1898,1812"/>
+<area shape="rect" id="node57" href="$classveins_1_1_tra_c_i_command_interface.html#a6616ffc201974b0a2f399e825d190134" title=" " alt="" coords="1675,1836,1898,1877"/>
+<area shape="rect" id="node58" href="$classveins_1_1_tra_c_i_command_interface_1_1_vehicle.html#ab003f93368d4f5b34916058ed9fa0151" title=" " alt="" coords="1675,1901,1898,1943"/>
+<area shape="rect" id="node59" href="$classveins_1_1_tra_c_i_command_interface_1_1_trafficlight.html#a78c7adc5c1214c0ae5c2490ba48bb7ed" title=" " alt="" coords="1663,1967,1911,2008"/>
+<area shape="rect" id="node60" href="$classveins_1_1_tra_c_i_command_interface.html#a3865e24f9fbd92005c46e5576d628945" title="Convert Cartesian coordination to road map position." alt="" coords="1675,2032,1898,2073"/>
+<area shape="rect" id="node61" href="$classveins_1_1_tra_c_i_command_interface.html#ad0c2e9daaf9cc954e1c5b96304d913ba" title=" " alt="" coords="1675,2097,1898,2139"/>
+<area shape="rect" id="node62" href="$classveins_1_1_tra_c_i_command_interface.html#a60c61fd2e948db73f6237ad8906811b5" title=" " alt="" coords="1675,2163,1898,2204"/>
+<area shape="rect" id="node63" href="$classveins_1_1_tra_c_i_command_interface_1_1_vehicle.html#a8c50fda5efda9bc379ef86573bd3bd50" title=" " alt="" coords="1675,2228,1898,2269"/>
+<area shape="rect" id="node64" href="$classveins_1_1_tra_c_i_command_interface_1_1_polygon.html#a18608df17590d21fad5b186c6c3802c7" title=" " alt="" coords="1675,2293,1898,2335"/>
+<area shape="rect" id="node65" href="$classveins_1_1_tra_c_i_command_interface_1_1_poi.html#a3fc376c9ae1099eb08232c7f576d861f" title=" " alt="" coords="1675,660,1898,701"/>
+<area shape="rect" id="node73" href="$classveins_1_1_tra_c_i_command_interface_1_1_gui_view.html#abcb08e21017cc5530d6de69ae01a865c" title=" " alt="" coords="1675,2359,1898,2400"/>
+<area shape="rect" id="node74" href="$classveins_1_1_tra_c_i_command_interface_1_1_vehicle.html#a3ebaa43d799efaf8c0272024a30fd404" title=" " alt="" coords="1675,2424,1898,2465"/>
+<area shape="rect" id="node75" href="$classveins_1_1_tra_c_i_command_interface_1_1_lane.html#a9189839d34b561225818ec36d9c05484" title=" " alt="" coords="1675,2489,1898,2531"/>
+<area shape="rect" id="node76" href="$classveins_1_1_tra_c_i_command_interface_1_1_trafficlight.html#a3827a3ce907ba8581bca8e87641940c3" title="set remaining duration of current phase" alt="" coords="1675,333,1898,375"/>
+<area shape="rect" id="node83" href="$classveins_1_1_tra_c_i_command_interface_1_1_trafficlight.html#a8a5741253182df0e722ccea5d35da143" title="set/switch to different phase within the program" alt="" coords="1675,399,1898,440"/>
+<area shape="rect" id="node85" href="$classveins_1_1_tra_c_i_command_interface_1_1_trafficlight.html#a768a9e37549d8310a2babd9f4acfe253" title="set/switch to different program" alt="" coords="1675,464,1898,505"/>
+<area shape="rect" id="node87" href="$classveins_1_1_tra_c_i_command_interface_1_1_trafficlight.html#a0bd49e647303f6e6098ea8ddace83a2e" title=" " alt="" coords="1663,2555,1910,2596"/>
+<area shape="rect" id="node88" href="$classveins_1_1_tra_c_i_command_interface_1_1_gui_view.html#a9482a2b68e8e3f5c7733b219148d2a72" title=" " alt="" coords="1675,2620,1898,2661"/>
+<area shape="rect" id="node89" href="$classveins_1_1_tra_c_i_command_interface_1_1_polygon.html#a3893975063adb73be8e51ff0b9485dd0" title=" " alt="" coords="1675,2685,1898,2727"/>
+<area shape="rect" id="node90" href="$classveins_1_1_tra_c_i_command_interface_1_1_vehicle.html#abb86fc986f3f2a7c48954aed90c61797" title=" " alt="" coords="1675,2751,1898,2792"/>
+<area shape="rect" id="node91" href="$classveins_1_1_tra_c_i_command_interface_1_1_trafficlight.html#a1e4f21fc7ceea26318f434152efa8de3" title=" " alt="" coords="1675,203,1898,244"/>
+<area shape="rect" id="node93" href="$classveins_1_1_tra_c_i_command_interface_1_1_gui_view.html#a5ca8e7090b41b3f9f2195d24292aa940" title=" " alt="" coords="1675,2816,1898,2857"/>
+<area shape="rect" id="node94" href="$classveins_1_1_tra_c_i_command_interface_1_1_vehicle.html#a801e74420132d1d8535e5c7072e400b7" title=" " alt="" coords="1675,2881,1898,2923"/>
+<area shape="rect" id="node95" href="$classveins_1_1_tra_c_i_command_interface_1_1_vehicle.html#a73ee92ee98196feb6dfc8e7e1249503c" title=" " alt="" coords="1675,72,1898,113"/>
+<area shape="rect" id="node96" href="$classveins_1_1_tra_c_i_command_interface_1_1_gui_view.html#a992b3cde419353d6715c81303b3da0ca" title=" " alt="" coords="1675,137,1898,179"/>
+<area shape="rect" id="node98" href="$classveins_1_1_tra_c_i_command_interface_1_1_gui_view.html#aa04f62d8aa866c2afafd584db4ea0da8" title="Track the vehicle identified by vehicleId in the Sumo GUI." alt="" coords="1675,268,1898,309"/>
+<area shape="rect" id="node9" href="$classveins_1_1_annotation_manager.html#a87ffa1c7edbccb8372a4551b73c73def" title=" " alt="" coords="1401,529,1594,571"/>
+<area shape="rect" id="node10" href="$classveins_1_1_annotation_manager.html#a4de648d17c042138a6c8b8638e945f4b" title=" " alt="" coords="1111,529,1305,571"/>
+<area shape="rect" id="node15" href="$classveins_1_1_annotation_manager.html#a336eefa4f1f95638dcf5d5e5db0a93e9" title=" " alt="" coords="1111,464,1305,505"/>
+<area shape="rect" id="node16" href="$classveins_1_1_annotation_manager.html#a7623e3423953cbe2f3db0133967829b7" title=" " alt="" coords="1111,376,1305,417"/>
+<area shape="rect" id="node21" href="$classveins_1_1_annotation_manager.html#a15a2bcf8ab7d62b65a85c55c3960085f" title=" " alt="" coords="1111,595,1305,636"/>
+<area shape="rect" id="node11" href="$classveins_1_1_annotation_manager.html#a946e1967906528815fbe61cb8cfb2986" title="adds Annotations from an XML document; example below." alt="" coords="831,477,1024,519"/>
+<area shape="rect" id="node13" href="$classveins_1_1_vehicle_obstacle_control.html#acbf5a8114d47f9d0708c93a9c788dd47" title="get distance and height of potential obstacles" alt="" coords="553,539,771,580"/>
+<area shape="rect" id="node12" href="$classveins_1_1_annotation_manager.html#af1b9b5eacc0afa3a90fbf48a7f00a539" title=" " alt="" coords="565,473,759,515"/>
+<area shape="rect" id="node14" href="$classveins_1_1_vehicle_obstacle_shadowing.html#aa1a8069440240b74a7a8ea0c91b06116" title="Filters a specified Signal by adding an attenuation over time to the Signal." alt="" coords="264,539,505,580"/>
+<area shape="rect" id="node17" href="$classveins_1_1_obstacle_control.html#a206a6e9155d1b201841d0718e65ed30f" title=" " alt="" coords="827,361,1028,387"/>
+<area shape="rect" id="node18" href="$classveins_1_1_annotation_manager.html#a51c3cecfcf9fd3f315177b07bb7ab040" title=" " alt="" coords="831,295,1024,336"/>
+<area shape="rect" id="node19" href="$classveins_1_1_vehicle_obstacle_control.html#a35472d1c0051dbf451f1dd30ac2c708f" title=" " alt="" coords="819,412,1036,453"/>
+<area shape="rect" id="node20" href="$classveins_1_1_tra_c_i_scenario_manager.html#a5389f3fc889b1fe3fd126c33a7d9ae36" title=" " alt="" coords="557,177,767,219"/>
+<area shape="rect" id="node22" href="$classveins_1_1_annotation_manager.html#aa368e9f91a7b1ae9f0ed505ec2153044" title=" " alt="" coords="831,595,1024,636"/>
+<area shape="rect" id="node26" href="$classveins_1_1_tra_c_i_vehicle_inserter.html#ade9a60eea81690b0dc5ac6803b0c478f" title="tries to add all vehicles in the vehicle queue to SUMO;" alt="" coords="1399,1313,1595,1355"/>
+<area shape="rect" id="node27" href="$classveins_1_1_tra_c_i_vehicle_inserter.html#a556643617ac2a26a96baebed9ece0595" title=" " alt="" coords="1110,987,1306,1028"/>
+<area shape="rect" id="node29" href="$classveins_1_1_tra_c_i_demo11p.html#a3014dadc6ab101fa734eeb151df3567f" title="this function is called upon receiving a BaseFrame1609_4" alt="" coords="1417,1379,1578,1420"/>
+<area shape="rect" id="node34" href="$classveins_1_1_tra_c_i_command_interface.html#a9162cdc5c97449b36f2504a6816b1649" title=" " alt="" coords="1386,1444,1609,1485"/>
+<area shape="rect" id="node38" href="$classveins_1_1_tra_c_i_command_interface.html#ae4f3edcecb046a56f4c8ac73999f0569" title=" " alt="" coords="1386,1248,1609,1289"/>
+<area shape="rect" id="node39" href="$classveins_1_1_tra_c_i_command_interface.html#a741694ecfe031e264b0d364c9306520c" title=" " alt="" coords="1386,660,1609,701"/>
+<area shape="rect" id="node40" href="$classveins_1_1_tra_c_i_command_interface.html#a342d0a4cd83cf5f2e3ffc70716ad054f" title=" " alt="" coords="1386,725,1609,767"/>
+<area shape="rect" id="node41" href="$classveins_1_1_tra_c_i_command_interface.html#a46c9ef680a7b910b7f8d74b0d1d2e392" title=" " alt="" coords="1386,791,1609,832"/>
+<area shape="rect" id="node43" href="$classveins_1_1_tra_c_i_command_interface.html#afbe7efb75d1c9f7cf60cb7d25c5af4b5" title=" " alt="" coords="1386,856,1609,897"/>
+<area shape="rect" id="node44" href="$classveins_1_1_tra_c_i_command_interface.html#a6089e8b0f413375119dfc40b6e465924" title=" " alt="" coords="1386,1052,1609,1093"/>
+<area shape="rect" id="node45" href="$classveins_1_1_tra_c_i_command_interface.html#a15d2f7196c24d7b0c8ad1833d5857885" title=" " alt="" coords="1386,1117,1609,1159"/>
+<area shape="rect" id="node46" href="$classveins_1_1_tra_c_i_command_interface.html#a34c0d649240f6d6043532467cd1fb3f6" title=" " alt="" coords="1386,987,1609,1028"/>
+<area shape="rect" id="node47" href="$classveins_1_1_tra_c_i_command_interface.html#a6902f1c5bc693fa46cf2bf9175173a8a" title=" " alt="" coords="1386,1183,1609,1224"/>
+<area shape="rect" id="node48" href="$classveins_1_1_tra_c_i_command_interface.html#a02760d51aeac1fc198f12fe0fd70d596" title=" " alt="" coords="1386,921,1609,963"/>
+<area shape="rect" id="node42" href="$classveins_1_1_roads_canvas_visualizer.html#a416e502f28fc2631898896add440e3d6" title=" " alt="" coords="1099,791,1317,832"/>
+<area shape="rect" id="node52" href="$classveins_1_1_tra_c_i_command_interface.html#a7c1cb7167a6ca4ae27747ebf91cd3f9d" title=" " alt="" coords="1386,1509,1609,1551"/>
+<area shape="rect" id="node66" href="$classveins_1_1_annotation_manager.html#ae7cd5fba58d72f4351963b9a6c95e669" title=" " alt="" coords="1401,595,1594,636"/>
+<area shape="rect" id="node67" href="$classveins_1_1_annotation_manager.html#a990948888917eff8840f899714d4e754" title=" " alt="" coords="1111,725,1305,767"/>
+<area shape="rect" id="node71" href="$classveins_1_1_annotation_manager.html#a25be0b4d24230db849859184c6144441" title=" " alt="" coords="1111,660,1305,701"/>
+<area shape="rect" id="node68" href="$classveins_1_1_obstacle_control.html#a3c5fb281ac00c947afe86d5e4bf99759" title=" " alt="" coords="843,725,1012,767"/>
+<area shape="rect" id="node69" href="$classveins_1_1_annotation_manager.html#af071307b3e3fad6ec12a193418a9f576" title=" " alt="" coords="831,856,1024,897"/>
+<area shape="rect" id="node70" href="$classveins_1_1_annotation_manager.html#a15b1bc8dc418c545c8ff4e2b1f14833b" title=" " alt="" coords="831,791,1024,832"/>
+<area shape="rect" id="node72" href="$classveins_1_1_annotation_manager.html#a7cd6933413793d71e8494c4561f635e0" title=" " alt="" coords="831,660,1024,701"/>
+<area shape="rect" id="node77" href="$classveins_1_1_tra_c_i_traffic_light_interface.html#ada896b2e872d54253ea1f3f24bb8dd63" title=" " alt="" coords="1406,268,1589,309"/>
+<area shape="rect" id="node82" href="$classveins_1_1_tra_c_i_traffic_light_interface.html#a1160a12ff8cd727c6e6077014397b689" title=" " alt="" coords="1380,333,1615,375"/>
+<area shape="rect" id="node78" href="$classveins_1_1_tra_c_i_traffic_light_interface.html#a21e6f2a1be4ab8952cd2c2ea4e43d712" title=" " alt="" coords="1084,213,1332,269"/>
+<area shape="rect" id="node80" href="$classveins_1_1_tra_c_i_scenario_manager.html#add02cc9cb92d43c6d9ed80ecae664063" title=" " alt="" coords="1091,293,1325,335"/>
+<area shape="rect" id="node79" href="$classveins_1_1_tra_c_i_traffic_light_interface.html#a04bf7b95b3007906095ccfddb9d830a8" title=" " alt="" coords="832,112,1023,153"/>
+<area shape="rect" id="node81" href="$classveins_1_1_tra_c_i_scenario_manager.html#a2f149bc15c3119ab19850b6960689eeb" title=" " alt="" coords="822,177,1033,219"/>
+<area shape="rect" id="node84" href="$classveins_1_1_tra_c_i_traffic_light_interface.html#a44cf7ae2ea56d79cd51017da1c92696f" title=" " alt="" coords="1384,399,1611,440"/>
+<area shape="rect" id="node86" href="$classveins_1_1_tra_c_i_traffic_light_interface.html#a02ae7efc223ff2a4ac1fa74a52e6409e" title=" " alt="" coords="1388,464,1607,505"/>
+<area shape="rect" id="node92" href="$classveins_1_1_tra_c_i_traffic_light_interface.html#a56222ccb6427fd3996db5117e0f766b8" title=" " alt="" coords="1402,203,1593,244"/>
+<area shape="rect" id="node97" href="$classveins_1_1_tra_c_i_screen_recorder.html#a1f31f2e84760580383d6d5dcae19fa47" title=" " alt="" coords="1397,137,1597,179"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="veins::Signal::getDataMin" name="veins::Signal::getDataMin">
+<area shape="rect" id="node1" title="Minimum power level in milliwatt in the data frequency range." alt="" coords="5,5,195,32"/>
+<area shape="rect" id="node2" href="$classveins_1_1_signal.html#a67f4a96520a33ca8fb6907b06531c93f" title=" " alt="" coords="243,5,453,32"/>
+</map>

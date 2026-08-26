@@ -1,0 +1,4 @@
+<map id="veins::MacToNetwControlInfo" name="veins::MacToNetwControlInfo">
+<area shape="rect" id="node1" title="Stores control information from mac to upper layer." alt="" coords="5,80,217,107"/>
+<area shape="rect" id="node2" title=" " alt="" coords="76,5,147,32"/>
+</map>

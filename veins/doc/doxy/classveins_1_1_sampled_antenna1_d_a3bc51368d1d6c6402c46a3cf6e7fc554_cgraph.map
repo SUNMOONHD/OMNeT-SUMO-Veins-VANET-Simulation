@@ -1,0 +1,4 @@
+<map id="veins::SampledAntenna1D::getGain" name="veins::SampledAntenna1D::getGain">
+<area shape="rect" id="node1" title="Calculates this antenna&#39;s gain based on the direction the signal is coming from/sent in." alt="" coords="5,5,200,47"/>
+<area shape="rect" id="node2" href="$classveins_1_1_f_w_math.html#acbd7030a6d374a5aada9ce01ab326dd4" title="Converts a dBm value into milliwatts." alt="" coords="248,13,439,39"/>
+</map>

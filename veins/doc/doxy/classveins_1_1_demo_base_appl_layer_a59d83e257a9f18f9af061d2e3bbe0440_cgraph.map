@@ -1,0 +1,5 @@
+<map id="veins::DemoBaseApplLayer::computeAsynchronousSendingTime" name="veins::DemoBaseApplLayer::computeAsynchronousSendingTime">
+<area shape="rect" id="node1" title="compute a point in time that is guaranteed to be in the correct channel interval plus a random offset" alt="" coords="5,53,268,94"/>
+<area shape="rect" id="node2" href="$classveins_1_1_demo_base_appl_layer_to_mac1609__4_interface.html#aac07f54c6e7d52a40b16b560638f2ce8" title=" " alt="" coords="316,5,517,61"/>
+<area shape="rect" id="node3" href="$classveins_1_1_demo_base_appl_layer_to_mac1609__4_interface.html#a43aee47e5687617af50e5919c26542a9" title=" " alt="" coords="316,85,517,141"/>
+</map>

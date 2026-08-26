@@ -1,0 +1,5 @@
+<map id="veins::BaseMacLayer::handleLowerControl" name="veins::BaseMacLayer::handleLowerControl">
+<area shape="rect" id="node1" title="Handle control messages from lower layer." alt="" coords="5,5,165,47"/>
+<area shape="rect" id="node2" href="$classveins_1_1_base_layer.html#aa1190a06fb4dfb15d8ff001468335dc8" title="Sends a control message to an upper layer." alt="" coords="213,13,451,39"/>
+<area shape="rect" id="node3" href="$classveins_1_1_base_layer.html#a33f4f320f4b6c4ec48651847338ff47f" title=" " alt="" coords="499,5,681,47"/>
+</map>

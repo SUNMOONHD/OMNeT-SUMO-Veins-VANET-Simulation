@@ -1,0 +1,6 @@
+<map id="veins::Move" name="veins::Move">
+<area shape="rect" id="node1" title="Class to store object position and movement." alt="" coords="63,215,165,241"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,5,76,32"/>
+<area shape="rect" id="node3" href="$classveins_1_1_coord.html" title="Class for storing 3D coordinates." alt="" coords="63,81,165,108"/>
+<area shape="rect" id="node4" title=" " alt="" coords="255,81,343,108"/>
+</map>

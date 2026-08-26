@@ -1,0 +1,6 @@
+<map id="veins::NicEntryDebug::requestInGate" name="veins::NicEntryDebug::requestInGate">
+<area shape="rect" id="node1" title="Returns a free in gate of the nic." alt="" coords="5,39,168,80"/>
+<area shape="rect" id="node2" href="$classveins_1_1_nic_entry_debug.html#aac3b943e56b211541596a73f6437608a" title="Iterates over all existing gates of this NicEntries nic and host and checks wether they are useable b..." alt="" coords="216,5,379,47"/>
+<area shape="rect" id="node4" href="$classveins_1_1_find_module.html#a56591278058cab17db4d776cfde387a5" title="Returns a pointer to a sub module of the passed module with the type of this template." alt="" coords="224,71,371,112"/>
+<area shape="rect" id="node3" href="$classveins_1_1_nic_entry_debug.html#ae4c6e480d8b2f3fc4199a7a8314ab2df" title="Collects all free gates with a certain pattern as names and puts them on a stack." alt="" coords="427,5,589,47"/>
+</map>

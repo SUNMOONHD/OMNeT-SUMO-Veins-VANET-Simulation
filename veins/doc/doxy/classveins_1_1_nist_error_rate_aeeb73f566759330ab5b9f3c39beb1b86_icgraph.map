@@ -1,0 +1,5 @@
+<map id="veins::NistErrorRate::get64QamBer" name="veins::NistErrorRate::get64QamBer">
+<area shape="rect" id="node1" title="Return BER of QAM64 at the given SNR." alt="" coords="428,5,580,47"/>
+<area shape="rect" id="node2" href="$classveins_1_1_nist_error_rate.html#ac41a5562bd3d9b5b50352301af0f1189" title="Return BER of QAM64 at the given SNR after applying FEC." alt="" coords="228,5,380,47"/>
+<area shape="rect" id="node3" href="$classveins_1_1_nist_error_rate.html#a25b315284a666a5065540f8f1da1cbe5" title=" " alt="" coords="5,5,180,47"/>
+</map>

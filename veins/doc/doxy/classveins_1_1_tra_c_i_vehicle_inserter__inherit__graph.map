@@ -1,0 +1,5 @@
+<map id="veins::TraCIVehicleInserter" name="veins::TraCIVehicleInserter">
+<area shape="rect" id="node1" title="Uses the TraCIScenarioManager to programmatically insert new vehicles at the TraCI server." alt="" coords="31,80,227,107"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,5,128,32"/>
+<area shape="rect" id="node3" title=" " alt="" coords="153,5,234,32"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="veins::BaseConnectionManager::updateNicPos" name="veins::BaseConnectionManager::updateNicPos">
+<area shape="rect" id="node1" title="Updates the position information of a registered nic." alt="" coords="216,5,443,47"/>
+<area shape="rect" id="node2" href="$classveins_1_1_channel_access.html#a152e2780da20c82d3751d521142a5f90" title="Called by the signalling mechanism to inform of changes." alt="" coords="5,5,168,47"/>
+</map>

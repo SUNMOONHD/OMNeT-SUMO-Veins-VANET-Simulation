@@ -1,0 +1,7 @@
+<map id="veins::SignalUtils::isChannelPowerBelowThreshold" name="veins::SignalUtils::isChannelPowerBelowThreshold">
+<area shape="rect" id="node1" title="check if the summed power of interfererFrames&#39;s signals at freqIndex is below a given threshold." alt="" coords="5,93,244,135"/>
+<area shape="rect" id="node2" href="$classveins_1_1_signal.html#a1955a75de66cc15338fa79d06b011675" title="Get the AnalogueModels associated with this Signal." alt="" coords="306,5,501,47"/>
+<area shape="rect" id="node3" href="$classveins_1_1_signal.html#ade8a1576fbeea65ad1a7eff31618c3b9" title="Get the point in time at which the signal reception ends." alt="" coords="292,71,515,98"/>
+<area shape="rect" id="node4" href="$classveins_1_1_signal.html#a303d43bda1cdcde066aa9c15acf52c4d" title="Get the point in time at which the signal reception starts." alt="" coords="304,123,503,164"/>
+<area shape="rect" id="node5" href="$namespaceveins_1_1_signal_utils_1_1anonymous__namespace_02_signal_utils_8cc_03.html#a3bdc19ba2443b2e74ab424beea23f8c8" title=" " alt="" coords="297,188,510,259"/>
+</map>

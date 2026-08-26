@@ -1,0 +1,18 @@
+<map id="veins::FindModule::findSubModule" name="veins::FindModule::findSubModule">
+<area shape="rect" id="node1" title="Returns a pointer to a sub module of the passed module with the type of this template." alt="" coords="739,296,885,337"/>
+<area shape="rect" id="node2" href="$classveins_1_1_access_module_wrap.html#aba35d824475dcf42954f0f8e464b4f00" title=" " alt="" coords="467,13,689,39"/>
+<area shape="rect" id="node4" href="$classveins_1_1_tra_c_i_mobility_access.html#a3a9a7cb34fa5b8bd351a61bfe783dc52" title=" " alt="" coords="465,63,691,90"/>
+<area shape="rect" id="node5" href="$classveins_1_1_demo_base_appl_layer.html#acca47f0d4a756e78ca29d2e4271af396" title=" " alt="" coords="215,89,417,131"/>
+<area shape="rect" id="node8" href="$classveins_1_1_tra_c_i_traffic_light_simple_logic_access.html#a31d0ed99a73ef065a5d9512da5925544" title=" " alt="" coords="491,165,665,207"/>
+<area shape="rect" id="node9" href="$classveins_1_1_tra_c_i_traffic_light_interface_access.html#adf1668e60ad100193c3bfb5b2daec586" title=" " alt="" coords="493,231,663,272"/>
+<area shape="rect" id="node10" href="$classveins_1_1_base_mac_layer.html#a689fa06067e9df73c7fa19512fe91117" title="Initialization of the module and some variables." alt="" coords="498,296,658,337"/>
+<area shape="rect" id="node11" href="$classveins_1_1_mac1609__4.html#a8d43b34c9fb0b918e447343e5fc344d4" title="States of the channel selecting operation." alt="" coords="215,333,417,359"/>
+<area shape="rect" id="node12" href="$classveins_1_1_tra_c_i_vehicle_inserter.html#a79f76754271168a751ae0275c840176e" title=" " alt="" coords="480,413,676,455"/>
+<area shape="rect" id="node13" href="$classveins_1_1_battery_access.html#a2286e83003b2919cbb496260a5b0d009" title="Registers this module as a device with the battery module." alt="" coords="499,479,657,520"/>
+<area shape="rect" id="node14" href="$classveins_1_1_nic_entry_debug.html#aa028678e801ba669ad47a6588b2ad90a" title="Returns a free in gate of the nic." alt="" coords="497,544,659,585"/>
+<area shape="rect" id="node16" href="$classveins_1_1_nic_entry_debug.html#ad601c375fa2fd737f88b3a475a06ff45" title="Returns a free out gate of the nic." alt="" coords="497,609,659,651"/>
+<area shape="rect" id="node3" href="$classveins_1_1_channel_access.html#a907ca947b7f0c4ef3e7f688115c944fc" title="Returns the host&#39;s mobility module." alt="" coords="235,5,397,47"/>
+<area shape="rect" id="node6" href="$classveins_1_1_my_veins_app.html#a73f5b68ba9bb4b66b2a3fecf875be114" title=" " alt="" coords="9,57,163,99"/>
+<area shape="rect" id="node7" href="$classveins_1_1_tra_c_i_demo11p.html#ac52eef213e4579f7d5f671385b506b78" title=" " alt="" coords="5,123,167,164"/>
+<area shape="rect" id="node15" href="$classveins_1_1_nic_entry_debug.html#aaf32efb647f62b055f65198bba49c535" title="Connect two nics." alt="" coords="235,576,397,617"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="veins::TraCIMobility::calculateCO2emission" name="veins::TraCIMobility::calculateCO2emission">
+<area shape="rect" id="node1" title="Returns the amount of CO2 emissions in grams/second, calculated for an average Car." alt="" coords="403,5,577,47"/>
+<area shape="rect" id="node2" href="$classveins_1_1_tra_c_i_mobility.html#a3137899bb330551c9823c40b4ed8b8fc" title=" " alt="" coords="204,5,355,47"/>
+<area shape="rect" id="node3" href="$classveins_1_1_tra_c_i_mobility.html#ae53642be0d88b9f146cf55a5d990f1a2" title=" " alt="" coords="5,5,156,47"/>
+</map>

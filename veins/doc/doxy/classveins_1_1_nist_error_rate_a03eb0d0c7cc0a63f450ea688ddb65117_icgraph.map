@@ -1,0 +1,4 @@
+<map id="veins::NistErrorRate::getFecBpskBer" name="veins::NistErrorRate::getFecBpskBer">
+<area shape="rect" id="node1" title="Return BER of BPSK at the given SNR after applying FEC." alt="" coords="228,5,380,47"/>
+<area shape="rect" id="node2" href="$classveins_1_1_nist_error_rate.html#a25b315284a666a5065540f8f1da1cbe5" title=" " alt="" coords="5,5,180,47"/>
+</map>

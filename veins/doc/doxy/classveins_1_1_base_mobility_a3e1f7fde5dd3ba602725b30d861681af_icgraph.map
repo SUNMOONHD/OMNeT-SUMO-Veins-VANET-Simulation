@@ -1,0 +1,9 @@
+<map id="veins::BaseMobility::getCurrentSpeed" name="veins::BaseMobility::getCurrentSpeed">
+<area shape="rect" id="node1" title="Returns the current speed at the current simulation time." alt="" coords="703,104,853,145"/>
+<area shape="rect" id="node2" href="$classveins_1_1_tra_c_i_mobility.html#ad6be6b3f578a4402f4f7dfefe0b89d31" title="Calling this method on pointers of type TraCIMobility is deprecated in favor of calling either getHos..." alt="" coords="504,71,655,112"/>
+<area shape="rect" id="node7" href="$classveins_1_1_tra_c_i_mobility.html#a536d0ddea4aed31d6281a8752ccb223b" title="Returns the speed of the host (likely 0 if setHostSpeed==false)" alt="" coords="504,136,655,177"/>
+<area shape="rect" id="node3" href="$classveins_1_1_demo_base_appl_layer.html#a384db2de57cd12b3b5bab48f255bcea7" title="this function is called every time the vehicle receives a position update signal" alt="" coords="255,71,456,112"/>
+<area shape="rect" id="node4" href="$classveins_1_1_my_veins_app.html#aa22adfb8dcb4f499757e59c7412b4c9f" title="this function is called every time the vehicle receives a position update signal" alt="" coords="23,5,189,47"/>
+<area shape="rect" id="node5" href="$classveins_1_1_tra_c_i_demo11p.html#aae2d2ce4ddead5bf4fdacf8fe00ba7e8" title="this function is called every time the vehicle receives a position update signal" alt="" coords="19,71,193,112"/>
+<area shape="rect" id="node6" href="$classveins_1_1_demo_base_appl_layer.html#acf0b4977efacc25c723cc44a938ee0f9" title=" " alt="" coords="5,136,207,177"/>
+</map>

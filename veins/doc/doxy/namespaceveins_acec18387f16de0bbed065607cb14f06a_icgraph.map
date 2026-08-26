@@ -1,0 +1,5 @@
+<map id="veins::getNDBPS" name="veins::getNDBPS">
+<area shape="rect" id="node1" title="returns the number of databits per ofdm symbol" alt="" coords="448,13,579,39"/>
+<area shape="rect" id="node2" href="$classveins_1_1_phy_layer80211p.html#acb436445ef368188f4338fb2f197aaf9" title=" " alt="" coords="227,5,400,47"/>
+<area shape="rect" id="node3" href="$classveins_1_1_phy_layer80211p.html#a1d1b85c74e35e6b7dd8a906a290e559c" title="Attach a signal to the given AirFrame." alt="" coords="5,5,179,47"/>
+</map>

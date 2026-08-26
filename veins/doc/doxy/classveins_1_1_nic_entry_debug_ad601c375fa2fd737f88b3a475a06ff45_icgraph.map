@@ -1,0 +1,4 @@
+<map id="veins::NicEntryDebug::requestOutGate" name="veins::NicEntryDebug::requestOutGate">
+<area shape="rect" id="node1" title="Returns a free out gate of the nic." alt="" coords="216,5,379,47"/>
+<area shape="rect" id="node2" href="$classveins_1_1_nic_entry_debug.html#aaf32efb647f62b055f65198bba49c535" title="Connect two nics." alt="" coords="5,5,168,47"/>
+</map>

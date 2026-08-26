@@ -1,0 +1,4 @@
+<map id="veins::Signal::setCenterFrequencyIndex" name="veins::Signal::setCenterFrequencyIndex">
+<area shape="rect" id="node1" title="Set the center frequency position." alt="" coords="227,5,403,47"/>
+<area shape="rect" id="node2" href="$classveins_1_1_phy_layer80211p.html#a1d1b85c74e35e6b7dd8a906a290e559c" title="Attach a signal to the given AirFrame." alt="" coords="5,5,179,47"/>
+</map>

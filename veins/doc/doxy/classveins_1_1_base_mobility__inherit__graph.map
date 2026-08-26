@@ -1,0 +1,9 @@
+<map id="veins::BaseMobility" name="veins::BaseMobility">
+<area shape="rect" id="node1" title="Base module for all mobility modules." alt="" coords="99,229,249,256"/>
+<area shape="rect" id="node6" href="$classveins_1_1_linear_mobility.html" title="Linear movement model." alt="" coords="5,304,164,331"/>
+<area shape="rect" id="node7" href="$classveins_1_1_tra_c_i_mobility.html" title="Used in modules created by the TraCIScenarioManager." alt="" coords="188,304,339,331"/>
+<area shape="rect" id="node2" href="$classveins_1_1_battery_access.html" title="Extends BaseModule by several methods which provide access to the battery module." alt="" coords="95,155,253,181"/>
+<area shape="rect" id="node3" href="$classveins_1_1_base_module.html" title="Base class for all simple modules of a host." alt="" coords="101,80,247,107"/>
+<area shape="rect" id="node4" title=" " alt="" coords="50,5,173,32"/>
+<area shape="rect" id="node5" title=" " alt="" coords="197,5,279,32"/>
+</map>

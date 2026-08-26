@@ -1,0 +1,4 @@
+<map id="veins::TraCIConnection::receiveMessage" name="veins::TraCIConnection::receiveMessage">
+<area shape="rect" id="node1" title="receives a message via TraCI (and strips the header)" alt="" coords="5,5,176,47"/>
+<area shape="rect" id="node2" href="$namespaceveins.html#a3e04988b53f0d0109602feb7895b4302" title=" " alt="" coords="224,13,331,39"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="veins::MyVeinsApp::handlePositionUpdate" name="veins::MyVeinsApp::handlePositionUpdate">
+<area shape="rect" id="node1" title="this function is called every time the vehicle receives a position update signal" alt="" coords="5,78,171,119"/>
+<area shape="rect" id="node2" href="$classveins_1_1_demo_base_appl_layer.html#a384db2de57cd12b3b5bab48f255bcea7" title="this function is called every time the vehicle receives a position update signal" alt="" coords="219,78,420,119"/>
+<area shape="rect" id="node3" href="$classveins_1_1_tra_c_i_mobility.html#ad6be6b3f578a4402f4f7dfefe0b89d31" title="Calling this method on pointers of type TraCIMobility is deprecated in favor of calling either getHos..." alt="" coords="468,45,619,86"/>
+<area shape="rect" id="node7" href="$classveins_1_1_base_mobility.html#abd802d0e5d919085a5422b99cd7c377d" title="Returns the current position at the given simulation time." alt="" coords="468,110,619,151"/>
+<area shape="rect" id="node4" href="$classveins_1_1_base_mobility.html#a3e1f7fde5dd3ba602725b30d861681af" title="Returns the current speed at the current simulation time." alt="" coords="689,45,840,86"/>
+<area shape="rect" id="node5" href="$classveins_1_1_move.html#a4b6924bf3edee91cb30397b832a84436" title="Returns the direction vector (which is unit less, because of normalization)." alt="" coords="911,5,1100,32"/>
+<area shape="rect" id="node6" href="$classveins_1_1_move.html#a983899326db64c24fef47811e88c0216" title="Returns the current speed." alt="" coords="920,56,1091,83"/>
+<area shape="rect" id="node8" href="$classveins_1_1_move.html#a2d86d39dfd7dedf10af25f1e42863d09" title="Returns the position of the Move (Host) at the specified point in time." alt="" coords="667,117,863,144"/>
+<area shape="rect" id="node9" href="$namespaceveins_1_1math.html#a8e7bde81401ddc00bf062333bf217491" title="Compare two floats for approximate equality." alt="" coords="929,110,1081,151"/>
+</map>

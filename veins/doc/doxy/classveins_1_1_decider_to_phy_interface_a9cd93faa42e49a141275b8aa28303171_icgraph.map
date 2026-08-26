@@ -1,0 +1,4 @@
+<map id="veins::DeciderToPhyInterface::recordScalar" name="veins::DeciderToPhyInterface::recordScalar">
+<area shape="rect" id="node1" title="Utility method to enable a Decider, which isn&#39;t an OMNeT&#45;module, to use the OMNeT&#45;method &#39;recordScala..." alt="" coords="216,5,427,47"/>
+<area shape="rect" id="node2" href="$classveins_1_1_decider80211p.html#ad64ecb4e0f79fce566109735958881d7" title="invoke this method when the phy layer is also finalized, so that statistics recorded by the decider c..." alt="" coords="5,5,168,47"/>
+</map>

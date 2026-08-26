@@ -1,0 +1,19 @@
+<map id="veins::Decider80211p::checkIfSignalOk" name="veins::Decider80211p::checkIfSignalOk">
+<area shape="rect" id="node1" title="Checks a mapping against a specific threshold (element&#45;wise)." alt="" coords="5,397,168,439"/>
+<area shape="rect" id="node2" href="$classveins_1_1_signal.html#a4c81e8207ce2ad21b8795687b63fc524" title="Get the center frequency&#39;s power level in milliwatt." alt="" coords="226,99,417,140"/>
+<area shape="rect" id="node3" href="$classveins_1_1_base_decider.html#a1eb9539d907f101c8d30798f6ca03337" title="Collects the AirFrame on the channel during the passed interval." alt="" coords="248,164,395,205"/>
+<area shape="rect" id="node5" href="$classveins_1_1_signal.html#a5e13430a9a561b1614d6ae4d4f649e74" title="Minimum power level in milliwatt in the data frequency range." alt="" coords="227,230,416,257"/>
+<area shape="rect" id="node7" href="$namespaceveins_1_1_signal_utils.html#a65bf87cf643cccf540dc5f0802a71427" title="return the minimal Signal to (Interference + Noise) Ratio at any data channel of signalFrame&#39;s signal" alt="" coords="254,281,389,323"/>
+<area shape="rect" id="node12" href="$classveins_1_1_signal.html#ade8a1576fbeea65ad1a7eff31618c3b9" title="Get the point in time at which the signal reception ends." alt="" coords="789,385,1012,411"/>
+<area shape="rect" id="node13" href="$classveins_1_1_signal.html#a303d43bda1cdcde066aa9c15acf52c4d" title="Get the point in time at which the signal reception starts." alt="" coords="801,439,1000,480"/>
+<area shape="rect" id="node15" href="$classveins_1_1_decider_to_phy_interface.html#af423a846c8d7b68d6882b30be41432a7" title="Returns a constant which defines the noise floor in the passed time frame (in mW)." alt="" coords="216,507,427,548"/>
+<area shape="rect" id="node16" href="$namespaceveins.html#aac9251bf5836e3baa0adc984b3b4c783" title="Given bandwidth and MCS returns datarate in bits per second." alt="" coords="232,573,411,599"/>
+<area shape="rect" id="node17" href="$classveins_1_1_decider80211p.html#a25ca0927f831000b88741dc0db84246c" title="computes if packet is ok or has errors" alt="" coords="240,624,403,665"/>
+<area shape="rect" id="node4" href="$classveins_1_1_decider_to_phy_interface.html#a49ab6416f80e747952ad829d6e8ca771" title="Fills the passed AirFrameVector with all AirFrames that intersect with the time interval [from,..." alt="" coords="503,5,713,47"/>
+<area shape="rect" id="node6" href="$classveins_1_1_signal.html#a67f4a96520a33ca8fb6907b06531c93f" title=" " alt="" coords="503,71,713,98"/>
+<area shape="rect" id="node8" href="$classveins_1_1_signal.html#ae0890d174875e1a543f334165b0748c7" title="Get the power in milliwatt for the given frequency index." alt="" coords="837,198,964,225"/>
+<area shape="rect" id="node9" href="$classveins_1_1_signal.html#a5ee277c44c11df19b2df5dc38dd29770" title="Get the absolute frequency index of first past&#45;the&#45;end data frequency." alt="" coords="806,281,995,307"/>
+<area shape="rect" id="node10" href="$classveins_1_1_signal.html#adc0e2696a4b55b43cad28ed824f98d33" title="Get the absolute frequency index of the first data frequency." alt="" coords="803,333,999,359"/>
+<area shape="rect" id="node11" href="$namespaceveins_1_1_signal_utils_1_1anonymous__namespace_02_signal_utils_8cc_03.html#adec53cec45469bce01bd893290800df5" title=" " alt="" coords="475,274,741,330"/>
+<area shape="rect" id="node14" href="$classveins_1_1_signal.html#ac9b8c5004d4d0eaa4f5f6656dec9c7ba" title="Get the Spectrum this Signal is defined on." alt="" coords="803,131,999,158"/>
+</map>

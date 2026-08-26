@@ -1,0 +1,5 @@
+<map id="veins::PhyToMacControlInfo" name="veins::PhyToMacControlInfo">
+<area shape="rect" id="node1" title="Controlinfo for packets which are send from Physical layer to the MAC layer." alt="" coords="7,95,210,121"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,5,76,32"/>
+<area shape="rect" id="node3" href="$classveins_1_1_decider_result.html" title="A class to represent the result of a processed packet (that is not noise) by the Decider." alt="" coords="100,5,256,32"/>
+</map>

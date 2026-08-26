@@ -1,0 +1,6 @@
+<map id="veins::Signal::getMinInRange" name="veins::Signal::getMinInRange">
+<area shape="rect" id="node1" title=" " alt="" coords="664,13,875,39"/>
+<area shape="rect" id="node2" href="$classveins_1_1_signal.html#a5e13430a9a561b1614d6ae4d4f649e74" title="Minimum power level in milliwatt in the data frequency range." alt="" coords="427,13,616,39"/>
+<area shape="rect" id="node3" href="$classveins_1_1_decider80211p.html#a01349c12df6c01678d1e25553b754819" title="Checks a mapping against a specific threshold (element&#45;wise)." alt="" coords="216,5,379,47"/>
+<area shape="rect" id="node4" href="$classveins_1_1_decider80211p.html#a389f17ab33d4fc22b499593fa0837faf" title="Processes a received AirFrame." alt="" coords="5,5,168,47"/>
+</map>

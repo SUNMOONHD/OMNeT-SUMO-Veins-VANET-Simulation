@@ -1,0 +1,13 @@
+<map id="veins::Obstacle::getShape" name="veins::Obstacle::getShape">
+<area shape="rect" id="node1" title=" " alt="" coords="1295,137,1485,163"/>
+<area shape="rect" id="node2" href="$classveins_1_1_obstacle_control.html#a206a6e9155d1b201841d0718e65ed30f" title=" " alt="" coords="1029,78,1230,105"/>
+<area shape="rect" id="node10" href="$classveins_1_1_obstacle.html#a3c29c3bd90ea0e05d70090a121d9df9f" title=" " alt="" coords="1037,129,1222,171"/>
+<area shape="rect" id="node11" href="$classveins_1_1_obstacle.html#a9362992355ee44e8306f88de8fe06542" title="get a list of points (in [0, 1]) along the line between sender and receiver where the beam intersects..." alt="" coords="1012,195,1247,222"/>
+<area shape="rect" id="node3" href="$classveins_1_1_obstacle_control.html#a5854911238d0af091d44f155bb768437" title=" " alt="" coords="781,39,964,80"/>
+<area shape="rect" id="node8" href="$classveins_1_1_obstacle_control.html#a1e5fceb8e8d9616622cc12551231c9d3" title=" " alt="" coords="788,104,957,145"/>
+<area shape="rect" id="node4" href="$classveins_1_1_tra_c_i_scenario_manager.html#a5389f3fc889b1fe3fd126c33a7d9ae36" title=" " alt="" coords="523,39,733,80"/>
+<area shape="rect" id="node5" href="$classveins_1_1_tra_c_i_scenario_manager.html#a86a0b91aab8823c087c33b99f3a06b1f" title=" " alt="" coords="264,5,475,47"/>
+<area shape="rect" id="node7" href="$classveins_1_1_tra_c_i_scenario_manager_launchd.html#a5547124fea3c83e5492a9cdb029948c9" title=" " alt="" coords="264,71,475,112"/>
+<area shape="rect" id="node6" href="$classveins_1_1_tra_c_i_scenario_manager.html#ac66ce95372a25d1860ad24748363090d" title=" " alt="" coords="5,5,216,47"/>
+<area shape="rect" id="node9" href="$classveins_1_1_obstacle_control.html#adffe1ace6d536aa9a27402006707962f" title=" " alt="" coords="543,104,713,145"/>
+</map>

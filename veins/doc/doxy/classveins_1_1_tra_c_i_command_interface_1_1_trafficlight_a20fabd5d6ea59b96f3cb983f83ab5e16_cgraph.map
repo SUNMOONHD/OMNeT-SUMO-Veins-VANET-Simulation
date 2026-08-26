@@ -1,0 +1,10 @@
+<map id="veins::TraCICommandInterface::Trafficlight::getControlledLinks" name="veins::TraCICommandInterface::Trafficlight::getControlledLinks">
+<area shape="rect" id="node1" title=" " alt="" coords="5,90,236,131"/>
+<area shape="rect" id="node2" href="$classveins_1_1_tra_c_i_connection.html#aaf49494fd564d7e88f1c539d9fd8aff8" title="sends a single command via TraCI, checks status response, returns additional responses." alt="" coords="284,57,455,98"/>
+<area shape="rect" id="node8" href="$classveins_1_1_tra_c_i_buffer.html#a8d4f6fca299bfcc926a39eab5080c266" title="read and check type, then read and return an item from the buffer" alt="" coords="297,122,441,163"/>
+<area shape="rect" id="node3" href="$namespaceveins.html#af83b40d9114af922837b09398bc72005" title="returns byte&#45;buffer containing a TraCI command with optional parameters" alt="" coords="503,5,704,32"/>
+<area shape="rect" id="node5" href="$classveins_1_1_tra_c_i_connection.html#abec53685d1816f11e2ab2797bdc467fb" title="receives a message via TraCI (and strips the header)" alt="" coords="518,122,689,163"/>
+<area shape="rect" id="node7" href="$classveins_1_1_tra_c_i_connection.html#ae9525e27e903007d2fb3382e790a748a" title="sends a message via TraCI (after adding the header)" alt="" coords="518,57,689,98"/>
+<area shape="rect" id="node4" href="$classveins_1_1_tra_c_i_buffer.html#ad05f91f4550a6e3c45042c1fc5811e94" title=" " alt="" coords="752,36,915,63"/>
+<area shape="rect" id="node6" href="$namespaceveins.html#a3e04988b53f0d0109602feb7895b4302" title=" " alt="" coords="780,93,887,120"/>
+</map>

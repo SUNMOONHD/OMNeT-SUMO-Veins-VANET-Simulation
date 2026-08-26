@@ -1,0 +1,12 @@
+<map id="veins::Mac1609_4::guardActive" name="veins::Mac1609_4::guardActive">
+<area shape="rect" id="node1" title=" " alt="" coords="765,151,991,177"/>
+<area shape="rect" id="node2" href="$classveins_1_1_mac1609__4.html#a1c6717faaa6b882f1d68153a4a22ae62" title=" " alt="" coords="495,37,717,64"/>
+<area shape="rect" id="node3" href="$classveins_1_1_mac1609__4.html#a9c988936349c36370a7b6f282227a734" title="Handle control messages from lower layer." alt="" coords="250,85,441,126"/>
+<area shape="rect" id="node6" href="$classveins_1_1_mac1609__4.html#aa1baba4139ee2996286cca5640b251a5" title=" " alt="" coords="511,143,701,185"/>
+<area shape="rect" id="node9" href="$classveins_1_1_mac1609__4.html#ad56ebe7dbf4be7aca4d00bfef4cdf412" title="Handle messages from upper layer." alt="" coords="511,209,701,250"/>
+<area shape="rect" id="node10" href="$classveins_1_1_mac1609__4_1_1_e_d_c_a.html#a5a4e0df1a7ab5239ce63125322a8a889" title=" " alt="" coords="515,274,697,315"/>
+<area shape="rect" id="node4" href="$classveins_1_1_mac1609__4.html#a50663c27a2a1782c618309345687e142" title="Handle self messages such as timers." alt="" coords="5,95,196,137"/>
+<area shape="rect" id="node5" href="$classveins_1_1_mac1609__4.html#a8d43b34c9fb0b918e447343e5fc344d4" title="States of the channel selecting operation." alt="" coords="244,33,447,60"/>
+<area shape="rect" id="node7" href="$classveins_1_1_mac1609__4.html#a429c3c17f4a99e763cf9608a85e6b56c" title=" " alt="" coords="250,215,441,257"/>
+<area shape="rect" id="node8" href="$classveins_1_1_mac1609__4.html#aa33e88d786741d77a486617749ddf6d0" title="Handle messages from lower layer." alt="" coords="250,150,441,191"/>
+</map>

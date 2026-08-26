@@ -1,0 +1,4 @@
+<map id="veins::DemoBaseApplLayer::handleParkingUpdate" name="veins::DemoBaseApplLayer::handleParkingUpdate">
+<area shape="rect" id="node1" title="this function is called every time the vehicle parks or starts moving again" alt="" coords="255,5,456,47"/>
+<area shape="rect" id="node2" href="$classveins_1_1_demo_base_appl_layer.html#acf0b4977efacc25c723cc44a938ee0f9" title=" " alt="" coords="5,5,207,47"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="veins::Signal::smallerAtCenterFrequency" name="veins::Signal::smallerAtCenterFrequency">
+<area shape="rect" id="node1" title="Predicate testing whether the power level at the center frequency does not exceed a threshold." alt="" coords="216,5,392,47"/>
+<area shape="rect" id="node2" href="$classveins_1_1_decider80211p.html#a6604c73b2ee786a4eeca5abe6f072cab" title="Processes a new Signal." alt="" coords="5,5,168,47"/>
+</map>

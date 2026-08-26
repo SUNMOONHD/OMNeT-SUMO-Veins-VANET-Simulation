@@ -1,0 +1,4 @@
+<map id="veins::Signal::getDataOffset" name="veins::Signal::getDataOffset">
+<area shape="rect" id="node1" title="Get the offset of the data frequency range in the absolute frequency range." alt="" coords="232,5,437,32"/>
+<area shape="rect" id="node2" href="$classveins_1_1_signal.html#ac678bd99ea970d0135330ccaa8458736" title="Create a copy of another signal." alt="" coords="5,5,184,32"/>
+</map>

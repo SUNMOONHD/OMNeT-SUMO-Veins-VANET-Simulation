@@ -1,0 +1,45 @@
+<map id="veins::VehicleObstacleShadowing::filterSignal" name="veins::VehicleObstacleShadowing::filterSignal">
+<area shape="rect" id="node1" title="Filters a specified Signal by adding an attenuation over time to the Signal." alt="" coords="5,242,247,283"/>
+<area shape="rect" id="node2" href="$classveins_1_1_signal.html#ae0890d174875e1a543f334165b0748c7" title="Get the power in milliwatt for the given frequency index." alt="" coords="867,5,993,32"/>
+<area shape="rect" id="node3" href="$classveins_1_1_signal.html#a87104706e2aecffa1146fe6b115e8450" title="Returns the number of power values stored in this signal." alt="" coords="825,56,1035,83"/>
+<area shape="rect" id="node4" href="$classveins_1_1_antenna_position.html#a08154432e1365873de146371cc996948" title="Get the (linearly extrapolated) position at time t." alt="" coords="583,275,754,317"/>
+<area shape="rect" id="node5" href="$classveins_1_1_vehicle_obstacle_control.html#acbf5a8114d47f9d0708c93a9c788dd47" title="get distance and height of potential obstacles" alt="" coords="295,334,512,375"/>
+<area shape="rect" id="node37" href="$classveins_1_1_signal.html#a42a8f0fb95c9ea08ff0a6a16df37ae14" title="Get this signal&#39;s receiver POA." alt="" coords="296,400,511,427"/>
+<area shape="rect" id="node38" href="$classveins_1_1_signal.html#a3110835239b852cf44bd59356be3fcc3" title="Get this signal&#39;s sender POA." alt="" coords="302,451,505,477"/>
+<area shape="rect" id="node39" href="$classveins_1_1_signal.html#ac9b8c5004d4d0eaa4f5f6656dec9c7ba" title="Get the Spectrum this Signal is defined on." alt="" coords="832,224,1028,251"/>
+<area shape="rect" id="node40" href="$classveins_1_1_vehicle_obstacle_control.html#adf2407d9dcb0830d99775342e3304f15" title="compute attenuation due to vehicles." alt="" coords="295,158,512,199"/>
+<area shape="rect" id="node6" href="$classveins_1_1_coord.html#a8420e28c26b3855cbce79a4cf085d477" title="Returns the distance to Coord &#39;a&#39;." alt="" coords="585,341,752,368"/>
+<area shape="rect" id="node9" href="$classveins_1_1_annotation_manager.html#a4de648d17c042138a6c8b8638e945f4b" title=" " alt="" coords="572,458,765,499"/>
+<area shape="rect" id="node28" href="$classveins_1_1_vehicle_obstacle_control.html#a35472d1c0051dbf451f1dd30ac2c708f" title=" " alt="" coords="560,589,777,630"/>
+<area shape="rect" id="node30" href="$classveins_1_1_annotation_manager.html#af071307b3e3fad6ec12a193418a9f576" title=" " alt="" coords="572,393,765,434"/>
+<area shape="rect" id="node36" href="$classveins_1_1_signal.html#aa3bcd9ab71e4e5875148183d92ba272d" title="Timing." alt="" coords="575,523,762,565"/>
+<area shape="rect" id="node7" href="$namespaceanonymous__namespace_02_base_connection_manager_8cc_03.html#a03d2870486bee7d8198d066f67d00e04" title="On a torus the end and the begin of the axes are connected so you get a circle." alt="" coords="834,320,1026,376"/>
+<area shape="rect" id="node8" href="$classveins_1_1_f_w_math.html#aa66a76d454bf3d91d8ec390c4737a7a1" title="Returns the remainder r on division of dividend a by divisor n, using floored division." alt="" coords="1091,335,1267,361"/>
+<area shape="rect" id="node10" href="$classveins_1_1_annotation_manager.html#a87ffa1c7edbccb8372a4551b73c73def" title=" " alt="" coords="1083,555,1276,597"/>
+<area shape="rect" id="node11" href="$classveins_1_1_tra_c_i_command_interface.html#ac993f428c814e092e6d7326e2af150eb" title=" " alt="" coords="1338,605,1561,646"/>
+<area shape="rect" id="node20" href="$classveins_1_1_tra_c_i_command_interface.html#a1d528260cf5344fffba0a59127881d1d" title=" " alt="" coords="1338,670,1561,711"/>
+<area shape="rect" id="node22" href="$classveins_1_1_tra_c_i_color.html#a298f34374f0c11021d65018040152c98" title=" " alt="" coords="1379,735,1519,777"/>
+<area shape="rect" id="node24" href="$classveins_1_1_tra_c_i_scenario_manager_access.html#a327aea423a1acd13027a591fbae8b4c5" title=" " alt="" coords="1344,343,1555,385"/>
+<area shape="rect" id="node26" href="$classveins_1_1_tra_c_i_scenario_manager.html#a9a82c8a0f6af08586d17d122431e98e4" title=" " alt="" coords="1344,539,1555,581"/>
+<area shape="rect" id="node27" href="$classveins_1_1_tra_c_i_scenario_manager.html#aaef11461dfdc93229532a56fdca3e5df" title=" " alt="" coords="1344,474,1555,515"/>
+<area shape="rect" id="node12" href="$classveins_1_1_tra_c_i_buffer.html#a636065a78d254fb480905d0bd0fb7b07" title=" " alt="" coords="1625,583,1791,609"/>
+<area shape="rect" id="node13" href="$classveins_1_1_tra_c_i_connection.html#a43b793beb2e8c60243db24af72951e59" title="convert OMNeT++ coordinates to TraCI coordinates" alt="" coords="1623,634,1793,675"/>
+<area shape="rect" id="node14" href="$classveins_1_1_tra_c_i_connection.html#aaf49494fd564d7e88f1c539d9fd8aff8" title="sends a single command via TraCI, checks status response, returns additional responses." alt="" coords="1623,517,1793,558"/>
+<area shape="rect" id="node15" href="$namespaceveins.html#af83b40d9114af922837b09398bc72005" title="returns byte&#45;buffer containing a TraCI command with optional parameters" alt="" coords="1841,465,2043,492"/>
+<area shape="rect" id="node17" href="$classveins_1_1_tra_c_i_connection.html#abec53685d1816f11e2ab2797bdc467fb" title="receives a message via TraCI (and strips the header)" alt="" coords="1857,582,2027,623"/>
+<area shape="rect" id="node19" href="$classveins_1_1_tra_c_i_connection.html#ae9525e27e903007d2fb3382e790a748a" title="sends a message via TraCI (after adding the header)" alt="" coords="1857,517,2027,558"/>
+<area shape="rect" id="node16" href="$classveins_1_1_tra_c_i_buffer.html#ad05f91f4550a6e3c45042c1fc5811e94" title=" " alt="" coords="2091,496,2253,523"/>
+<area shape="rect" id="node18" href="$namespaceveins.html#a3e04988b53f0d0109602feb7895b4302" title=" " alt="" coords="2119,553,2225,580"/>
+<area shape="rect" id="node21" href="$classveins_1_1_tra_c_i_buffer.html#a249733b42f67d40a3c668089ec9fdfe8" title="write only a Byte if value fits in a Byte." alt="" coords="1639,699,1777,741"/>
+<area shape="rect" id="node23" href="$classveins_1_1_tra_c_i_color.html#aed4c0a7c62bb97cd300b23f3f932e6e7" title=" " alt="" coords="1638,765,1778,806"/>
+<area shape="rect" id="node25" href="$classveins_1_1_find_module.html#a5235f90b10b3a297c25baeaa8a4194cf" title="Returns a pointer to the module with the type of this template." alt="" coords="1635,343,1781,385"/>
+<area shape="rect" id="node29" href="$classveins_1_1_annotation_manager.html#a7623e3423953cbe2f3db0133967829b7" title=" " alt="" coords="833,581,1027,622"/>
+<area shape="rect" id="node31" href="$classveins_1_1_annotation_manager.html#a990948888917eff8840f899714d4e754" title=" " alt="" coords="833,401,1027,442"/>
+<area shape="rect" id="node32" href="$classveins_1_1_annotation_manager.html#ae7cd5fba58d72f4351963b9a6c95e669" title=" " alt="" coords="1083,401,1276,442"/>
+<area shape="rect" id="node33" href="$classveins_1_1_tra_c_i_command_interface.html#a7d00809be36c763a8bfb96a86e985315" title=" " alt="" coords="1324,227,1575,253"/>
+<area shape="rect" id="node34" href="$classveins_1_1_tra_c_i_command_interface.html#af84efc08b64c51d7e6f8d9b2bc542781" title=" " alt="" coords="1338,278,1561,319"/>
+<area shape="rect" id="node35" href="$classveins_1_1_tra_c_i_command_interface_1_1_poi.html#a3fc376c9ae1099eb08232c7f576d861f" title=" " alt="" coords="1338,409,1561,450"/>
+<area shape="rect" id="node41" href="$classveins_1_1_vehicle_obstacle_control.html#aba9a4a4986cd0141c6bd5404069f9460" title="compute attenuation due to (single) vehicle." alt="" coords="560,107,777,149"/>
+<area shape="rect" id="node42" href="$classveins_1_1_spectrum.html#a17aa50791a5cd216f435169bf68f98b9" title=" " alt="" coords="843,107,1017,133"/>
+<area shape="rect" id="node43" href="$classveins_1_1_base_world_utility.html#a425e4c8fac6fb8309ae2efd494a19fe6" title="Speed of light in meters per second." alt="" coords="843,158,1017,199"/>
+</map>

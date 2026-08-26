@@ -1,0 +1,12 @@
+<map id="veins::BaseMacLayer" name="veins::BaseMacLayer">
+<area shape="rect" id="node1" title="A very simple MAC module template which provides de&#45; and encapsulation of messages using the standard..." alt="" coords="301,425,461,452"/>
+<area shape="rect" id="node2" href="$classveins_1_1_base_layer.html" title="A very simple layer template." alt="" coords="223,336,356,363"/>
+<area shape="rect" id="node3" href="$classveins_1_1_battery_access.html" title="Extends BaseModule by several methods which provide access to the battery module." alt="" coords="117,247,275,273"/>
+<area shape="rect" id="node4" href="$classveins_1_1_base_module.html" title="Base class for all simple modules of a host." alt="" coords="57,81,202,108"/>
+<area shape="rect" id="node7" href="$classveins_1_1_base_battery.html" title="Base class for any power source." alt="" coords="151,157,297,184"/>
+<area shape="rect" id="node5" title=" " alt="" coords="5,5,128,32"/>
+<area shape="rect" id="node6" title=" " alt="" coords="153,5,234,32"/>
+<area shape="rect" id="node8" href="$classveins_1_1_passed_message.html" title=" " alt="" coords="299,247,469,273"/>
+<area shape="rect" id="node9" title=" " alt="" coords="349,157,419,184"/>
+<area shape="rect" id="node10" href="$classveins_1_1_mac_to_phy_interface.html" title="Defines the methods provided by the phy to the mac layer." alt="" coords="381,336,569,363"/>
+</map>

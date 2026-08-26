@@ -1,0 +1,5 @@
+<map id="veins::PhyLayer80211p::initializeBreakpointPathlossModel" name="veins::PhyLayer80211p::initializeBreakpointPathlossModel">
+<area shape="rect" id="node1" title="Creates and initializes a BreakpointPathlossModel with the passed parameter values." alt="" coords="5,31,217,87"/>
+<area shape="rect" id="node2" href="$classveins_1_1_base_world_utility.html#a08a8c00b81e5b70ab4cdfe611d4169b7" title="Returns the playgroundSize." alt="" coords="265,5,440,47"/>
+<area shape="rect" id="node3" href="$classveins_1_1_base_world_utility.html#ac0e47ec8501896bb97172a70c31d7e06" title="Returns true if our playground represents a torus (borders are connected)" alt="" coords="265,71,440,112"/>
+</map>

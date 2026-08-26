@@ -1,0 +1,5 @@
+<map id="veins::TraCIConnection::sendMessage" name="veins::TraCIConnection::sendMessage">
+<area shape="rect" id="node1" title="sends a message via TraCI (after adding the header)" alt="" coords="5,23,176,65"/>
+<area shape="rect" id="node2" href="$namespaceveins.html#a3e04988b53f0d0109602feb7895b4302" title=" " alt="" coords="252,5,359,32"/>
+<area shape="rect" id="node3" href="$classveins_1_1_tra_c_i_buffer.html#ad05f91f4550a6e3c45042c1fc5811e94" title=" " alt="" coords="224,56,387,83"/>
+</map>

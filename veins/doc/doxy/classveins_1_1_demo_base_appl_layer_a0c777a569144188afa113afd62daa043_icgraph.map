@@ -1,0 +1,4 @@
+<map id="veins::DemoBaseApplLayer::onBSM" name="veins::DemoBaseApplLayer::onBSM">
+<area shape="rect" id="node1" title="this function is called upon receiving a DemoSafetyMessage, also referred to as a beacon" alt="" coords="255,5,456,47"/>
+<area shape="rect" id="node2" href="$classveins_1_1_demo_base_appl_layer.html#a0457eac366e27a0cd301e764ee955504" title="handle messages from below and calls the onWSM, onBSM, and onWSA functions accordingly" alt="" coords="5,5,207,47"/>
+</map>

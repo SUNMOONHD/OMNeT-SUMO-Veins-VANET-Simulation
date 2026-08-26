@@ -1,0 +1,25 @@
+<map id="veins::TraCIMobility::fixIfHostGetsOutside" name="veins::TraCIMobility::fixIfHostGetsOutside">
+<area shape="rect" id="node1" title="called after each read to check for (and handle) invalid positions" alt="" coords="5,238,172,279"/>
+<area shape="rect" id="node2" href="$classveins_1_1_move.html#a72b382a849acc025fc1391c29e90b4e8" title="Returns the start position." alt="" coords="661,66,845,93"/>
+<area shape="rect" id="node3" href="$classveins_1_1_base_mobility.html#aae36006995d117a723134cbe1fee5e90" title="Main border handling function." alt="" coords="220,395,371,436"/>
+<area shape="rect" id="node7" href="$classveins_1_1_base_mobility.html#a86c357c59de6f58dc9916706ef1b4f6c" title="Returns the width of the playground." alt="" coords="910,448,1061,490"/>
+<area shape="rect" id="node9" href="$classveins_1_1_base_mobility.html#acb8f54f076e73b8760cf3f2421a68ad6" title="Returns the height of the playground." alt="" coords="910,168,1061,210"/>
+<area shape="rect" id="node10" href="$classveins_1_1_base_mobility.html#a61602db99644b3a1fe849eb02c8286cb" title="Returns the height of the playground." alt="" coords="910,234,1061,275"/>
+<area shape="rect" id="node11" href="$classveins_1_1_base_world_utility.html#ad67073ffe5557077cd4b96fa2138c536" title="Returns true if the world is 2&#45;dimensional." alt="" coords="666,438,841,479"/>
+<area shape="rect" id="node4" href="$classveins_1_1_base_mobility.html#ab69f42caa7932524bf470f0799b4aac7" title="Checks whether the host is outside the playground and returns where." alt="" coords="439,278,589,319"/>
+<area shape="rect" id="node6" href="$classveins_1_1_coord.html#a6e2a6d6d22318dcac1173b4de5962d30" title="Returns a string with the value of the coordinate." alt="" coords="685,386,821,413"/>
+<area shape="rect" id="node12" href="$classveins_1_1_coord.html#a8420e28c26b3855cbce79a4cf085d477" title="Returns the distance to Coord &#39;a&#39;." alt="" coords="431,613,597,640"/>
+<area shape="rect" id="node15" href="$classveins_1_1_move.html#a983899326db64c24fef47811e88c0216" title="Returns the current speed." alt="" coords="429,461,599,488"/>
+<area shape="rect" id="node16" href="$classveins_1_1_base_mobility.html#a3bf65a049293dc4c7043554c04555bdc" title="calculate the step to reach the border" alt="" coords="439,395,589,436"/>
+<area shape="rect" id="node17" href="$classveins_1_1_coord.html#aa003fb9d6788186697029ce7653eb9e7" title="Returns the length of this Coords position vector." alt="" coords="438,512,590,538"/>
+<area shape="rect" id="node18" href="$classveins_1_1_base_mobility.html#a933475f97d6ab7bf834e4d07beda131b" title="Utility function to place the node randomly if it goes outside the playground." alt="" coords="419,854,609,895"/>
+<area shape="rect" id="node21" href="$classveins_1_1_base_mobility.html#ab9e4cd0caa3fc245ba934f5f5bd9fc49" title="Utility function to reflect the node if it goes outside the playground." alt="" coords="439,206,589,247"/>
+<area shape="rect" id="node23" href="$classveins_1_1_base_mobility.html#a78f392149c0f8185e07dc9a51286bf85" title="Utility function to wrap the node to the opposite edge (torus) if it goes outside the playground." alt="" coords="678,656,829,698"/>
+<area shape="rect" id="node5" href="$classveins_1_1_move.html#a4b6924bf3edee91cb30397b832a84436" title="Returns the direction vector (which is unit less, because of normalization)." alt="" coords="659,336,848,362"/>
+<area shape="rect" id="node8" href="$classveins_1_1_base_world_utility.html#a08a8c00b81e5b70ab4cdfe611d4169b7" title="Returns the playgroundSize." alt="" coords="1121,234,1296,275"/>
+<area shape="rect" id="node13" href="$namespaceanonymous__namespace_02_base_connection_manager_8cc_03.html#a03d2870486bee7d8198d066f67d00e04" title="On a torus the end and the begin of the axes are connected so you get a circle." alt="" coords="657,722,849,778"/>
+<area shape="rect" id="node14" href="$classveins_1_1_f_w_math.html#aa66a76d454bf3d91d8ec390c4737a7a1" title="Returns the remainder r on division of dividend a by divisor n, using floored division." alt="" coords="897,701,1073,728"/>
+<area shape="rect" id="node19" href="$classveins_1_1_base_world_utility.html#a3c574ecd7a055ba2407f638ce548bc24" title="Random position somewhere in the playground." alt="" coords="666,854,841,895"/>
+<area shape="rect" id="node20" href="$classveins_1_1_base_world_utility.html#aabcceb57843568c213b0772b08971827" title="Initializes all members accessible by other modules." alt="" coords="898,854,1073,895"/>
+<area shape="rect" id="node22" href="$classveins_1_1_base_mobility.html#a6c817348be2c3586777a85bb60e2b3f1" title="helperfunction for reflectIfOutside() to reflect a Coordinate at a given border" alt="" coords="678,168,829,210"/>
+</map>

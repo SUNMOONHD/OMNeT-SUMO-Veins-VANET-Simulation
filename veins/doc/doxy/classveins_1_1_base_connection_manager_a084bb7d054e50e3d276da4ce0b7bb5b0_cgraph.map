@@ -1,0 +1,8 @@
+<map id="veins::BaseConnectionManager::initialize" name="veins::BaseConnectionManager::initialize">
+<area shape="rect" id="node1" title="Reads init parameters and calculates a maximal interference distance." alt="" coords="5,136,232,177"/>
+<area shape="rect" id="node2" href="$classveins_1_1_base_connection_manager.html#a99dc9770c0ae535dc458586206a3235f" title="Calculate interference distance." alt="" coords="280,5,507,47"/>
+<area shape="rect" id="node3" href="$classveins_1_1_find_module.html#a5235f90b10b3a297c25baeaa8a4194cf" title="Returns a pointer to the module with the type of this template." alt="" coords="320,71,467,112"/>
+<area shape="rect" id="node4" href="$classveins_1_1_base_world_utility.html#a08a8c00b81e5b70ab4cdfe611d4169b7" title="Returns the playgroundSize." alt="" coords="306,136,481,177"/>
+<area shape="rect" id="node5" href="$classveins_1_1_coord.html#a6e2a6d6d22318dcac1173b4de5962d30" title="Returns a string with the value of the coordinate." alt="" coords="325,202,461,229"/>
+<area shape="rect" id="node6" href="$classveins_1_1_base_world_utility.html#ac0e47ec8501896bb97172a70c31d7e06" title="Returns true if our playground represents a torus (borders are connected)" alt="" coords="306,253,481,295"/>
+</map>

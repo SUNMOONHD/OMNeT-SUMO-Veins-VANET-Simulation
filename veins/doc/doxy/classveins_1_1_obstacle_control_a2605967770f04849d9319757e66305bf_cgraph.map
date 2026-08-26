@@ -1,0 +1,12 @@
+<map id="veins::ObstacleControl::calculateAttenuation" name="veins::ObstacleControl::calculateAttenuation">
+<area shape="rect" id="node1" title="calculate additional attenuation by obstacles, return multiplicative factor" alt="" coords="5,62,175,103"/>
+<area shape="rect" id="node2" href="$classveins_1_1_coord.html#a8420e28c26b3855cbce79a4cf085d477" title="Returns the distance to Coord &#39;a&#39;." alt="" coords="224,33,391,60"/>
+<area shape="rect" id="node5" href="$classveins_1_1_obstacle_control.html#a7bb694941ec27d078605e730c78644af" title="get hit obstacles (along with a list of points (in [0, 1]) along the line between sender and receiver..." alt="" coords="223,91,392,133"/>
+<area shape="rect" id="node3" href="$namespaceanonymous__namespace_02_base_connection_manager_8cc_03.html#a03d2870486bee7d8198d066f67d00e04" title="On a torus the end and the begin of the axes are connected so you get a circle." alt="" coords="440,5,632,61"/>
+<area shape="rect" id="node4" href="$classveins_1_1_f_w_math.html#aa66a76d454bf3d91d8ec390c4737a7a1" title="Returns the remainder r on division of dividend a by divisor n, using floored division." alt="" coords="699,15,875,41"/>
+<area shape="rect" id="node6" href="$classveins_1_1_b_box_lookup.html#aafb4c0c12fd2d7623a9fa41010cddb01" title="Return all obstacles which have their bounding box touched by the transmission from sender to receive..." alt="" coords="459,91,613,133"/>
+<area shape="rect" id="node9" href="$namespaceanonymous__namespace_02_obstacle_control_8cc_03.html#a622c9a0b0c5d14fbd42f7d5bcba982cb" title=" " alt="" coords="446,168,626,224"/>
+<area shape="rect" id="node7" href="$namespaceanonymous__namespace_02_b_box_lookup_8cc_03.html#ad29edbecc2bba7cf9afb525f0aff0f25" title="Return whether ray intersects with box." alt="" coords="680,66,893,107"/>
+<area shape="rect" id="node8" href="$namespaceanonymous__namespace_02_b_box_lookup_8cc_03.html#a511746fffff7fb590b4d01d923189b03" title="Return a Ray struct for fast intersection tests from sender to receiver." alt="" coords="681,131,892,173"/>
+<area shape="rect" id="node10" href="$classveins_1_1_find_module.html#a5235f90b10b3a297c25baeaa8a4194cf" title="Returns a pointer to the module with the type of this template." alt="" coords="713,197,860,238"/>
+</map>

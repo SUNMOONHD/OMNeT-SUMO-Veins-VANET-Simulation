@@ -1,0 +1,6 @@
+<map id="veins::BaseConnectionManager::updateConnections" name="veins::BaseConnectionManager::updateConnections">
+<area shape="rect" id="node1" title="Updates the connections of the nic with &quot;nicID&quot;." alt="" coords="491,39,717,80"/>
+<area shape="rect" id="node2" href="$classveins_1_1_base_connection_manager.html#a35d8c27aeacff47e0e62135ffe065078" title="Registers a nic to have its connections managed by ConnectionManager." alt="" coords="216,5,443,47"/>
+<area shape="rect" id="node4" href="$classveins_1_1_base_connection_manager.html#af264b3c891bde0a49dd003c584c997ac" title="Updates the position information of a registered nic." alt="" coords="216,71,443,112"/>
+<area shape="rect" id="node3" href="$classveins_1_1_channel_access.html#a152e2780da20c82d3751d521142a5f90" title="Called by the signalling mechanism to inform of changes." alt="" coords="5,39,168,80"/>
+</map>

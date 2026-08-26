@@ -1,0 +1,10 @@
+<map id="veins::ChannelInfo::removeAirFrame" name="veins::ChannelInfo::removeAirFrame">
+<area shape="rect" id="node1" title="Tells the ChannelInfo that an AirFrame is over." alt="" coords="1404,13,1547,55"/>
+<area shape="rect" id="node2" href="$classveins_1_1_base_phy_layer.html#a4f8fde562c0004b498fc3294c3f54c2f" title="Handle incoming AirFrames with the state AirFrameState::end_receive." alt="" coords="1147,13,1356,55"/>
+<area shape="rect" id="node3" href="$classveins_1_1_base_phy_layer.html#a8d6f371fa6ea6ca89cb78764a05f31dd" title="Handle messages received from the channel." alt="" coords="432,35,589,76"/>
+<area shape="rect" id="node7" href="$classveins_1_1_base_phy_layer.html#a9dbbcf0004b22c622ec4b06a19b4f564" title="Handle incoming AirFrames with the state AirFrameState::receiving." alt="" coords="901,43,1099,84"/>
+<area shape="rect" id="node4" href="$classveins_1_1_base_phy_layer.html#a54c20b44779b724638e62f941b656f9c" title="Process received messages and pass to specific handlers." alt="" coords="5,5,163,47"/>
+<area shape="rect" id="node5" href="$classveins_1_1_base_phy_layer.html#a17088ad93f59e143ff6c7ba866a31982" title="Handle self scheduled messages." alt="" coords="219,35,376,76"/>
+<area shape="rect" id="node6" href="$classveins_1_1_phy_layer80211p.html#a020601bba0e334a622dc8e193c5946b0" title="Handle self scheduled messages." alt="" coords="211,100,384,141"/>
+<area shape="rect" id="node8" href="$classveins_1_1_base_phy_layer.html#a671f083680882230b754b7e9578e6274" title="Handle incoming AirFrames with the state AirFrameState::start_receive." alt="" coords="637,93,853,135"/>
+</map>

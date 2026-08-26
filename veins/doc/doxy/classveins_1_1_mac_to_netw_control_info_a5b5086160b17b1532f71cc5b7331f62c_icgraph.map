@@ -1,0 +1,4 @@
+<map id="veins::MacToNetwControlInfo::getLastHopMac" name="veins::MacToNetwControlInfo::getLastHopMac">
+<area shape="rect" id="node1" title="Returns the MAC address of the packets last hop." alt="" coords="265,5,477,47"/>
+<area shape="rect" id="node2" href="$classveins_1_1_mac_to_netw_control_info.html#ab2bbb33d50d1c89ab82065af204f2a4c" title=" " alt="" coords="5,5,217,47"/>
+</map>

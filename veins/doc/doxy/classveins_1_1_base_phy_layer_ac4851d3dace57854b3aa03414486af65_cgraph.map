@@ -1,0 +1,5 @@
+<map id="veins::BasePhyLayer::initializeRadio" name="veins::BasePhyLayer::initializeRadio">
+<area shape="rect" id="node1" title="Create and return the radio class to use." alt="" coords="5,27,163,69"/>
+<area shape="rect" id="node2" href="$classveins_1_1_radio.html#adb1662dfad80b70f1983faaa6689a25b" title="Creates a new instance of this class." alt="" coords="211,5,428,32"/>
+<area shape="rect" id="node3" href="$classveins_1_1_base_phy_layer.html#a379b5527a61ac5dfe378691faca6c2d9" title="Read and return the parameter with the passed name." alt="" coords="241,57,398,98"/>
+</map>

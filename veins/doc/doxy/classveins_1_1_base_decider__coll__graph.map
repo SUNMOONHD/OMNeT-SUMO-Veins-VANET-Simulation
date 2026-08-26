@@ -1,0 +1,7 @@
+<map id="veins::BaseDecider" name="veins::BaseDecider">
+<area shape="rect" id="node1" title="Provides some base functionality for most common deciders." alt="" coords="151,171,298,197"/>
+<area shape="rect" id="node2" href="$classveins_1_1_decider.html" title="The basic Decider class." alt="" coords="167,95,282,121"/>
+<area shape="rect" id="node3" href="$classveins_1_1_has_log_proxy.html" title="Helper class for logging from classes not derived from cComponent." alt="" coords="5,5,156,32"/>
+<area shape="rect" id="node4" title=" " alt="" coords="181,5,269,32"/>
+<area shape="rect" id="node5" href="$classveins_1_1_decider_to_phy_interface.html" title="This class is the interface for a Decider to the BasePhyLayer." alt="" coords="293,5,503,32"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="veins::BasePhyLayer::sendMessageDown" name="veins::BasePhyLayer::sendMessageDown">
+<area shape="rect" id="node1" title="Send the passed AirFrame to the channel." alt="" coords="429,5,587,47"/>
+<area shape="rect" id="node2" href="$classveins_1_1_base_phy_layer.html#a17b1d469775962d23835dd5f43a639ac" title="Handle messages received from the upper layer and start transmitting them." alt="" coords="211,5,381,47"/>
+<area shape="rect" id="node3" href="$classveins_1_1_base_phy_layer.html#a54c20b44779b724638e62f941b656f9c" title="Process received messages and pass to specific handlers." alt="" coords="5,5,163,47"/>
+</map>

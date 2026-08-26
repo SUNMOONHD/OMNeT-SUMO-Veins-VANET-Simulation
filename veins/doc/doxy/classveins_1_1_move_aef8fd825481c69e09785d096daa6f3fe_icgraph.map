@@ -1,0 +1,9 @@
+<map id="veins::Move::setOrientationByVector" name="veins::Move::setOrientationByVector">
+<area shape="rect" id="node1" title="Sets the orientation to the passed vector." alt="" coords="411,105,613,147"/>
+<area shape="rect" id="node2" href="$classveins_1_1_tra_c_i_mobility.html#a3137899bb330551c9823c40b4ed8b8fc" title=" " alt="" coords="212,8,363,49"/>
+<area shape="rect" id="node4" href="$classveins_1_1_base_mobility.html#ac865e9d430a27e6a3076c0d9293fef35" title="Initializes mobility model parameters." alt="" coords="212,76,363,117"/>
+<area shape="rect" id="node6" href="$classveins_1_1_tra_c_i_mobility.html#a9945ece48d11a01a7973f991b467e848" title=" " alt="" coords="9,136,160,177"/>
+<area shape="rect" id="node7" href="$classveins_1_1_tra_c_i_mobility.html#a678634249e120d1e2614a628d20006f6" title=" " alt="" coords="212,193,363,235"/>
+<area shape="rect" id="node3" href="$classveins_1_1_tra_c_i_mobility.html#ae53642be0d88b9f146cf55a5d990f1a2" title=" " alt="" coords="9,5,160,47"/>
+<area shape="rect" id="node5" href="$classveins_1_1_linear_mobility.html#ac94ebc62ac059949810368634398004b" title="Initializes mobility model parameters." alt="" coords="5,71,164,112"/>
+</map>

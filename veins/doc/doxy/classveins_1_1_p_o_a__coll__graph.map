@@ -1,0 +1,7 @@
+<map id="veins::POA" name="veins::POA">
+<area shape="rect" id="node1" title="Container class used to attach data to Airframe s which are needed by the receiver for antenna gain c..." alt="" coords="111,275,203,301"/>
+<area shape="rect" id="node2" href="$classveins_1_1_coord.html" title="Class for storing 3D coordinates." alt="" coords="166,81,269,108"/>
+<area shape="rect" id="node4" href="$classveins_1_1_antenna_position.html" title="Stores the position of the host&#39;s antenna along with its speed, so that it can be linearly extrapolat..." alt="" coords="5,185,176,212"/>
+<area shape="rect" id="node3" title=" " alt="" coords="182,5,253,32"/>
+<area shape="rect" id="node5" title=" " alt="" coords="47,81,135,108"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="veins::ChannelAccess::calculatePropagationDelay" name="veins::ChannelAccess::calculatePropagationDelay">
+<area shape="rect" id="node1" title="Calculates the propagation delay to the passed receiving nic." alt="" coords="5,71,211,113"/>
+<area shape="rect" id="node2" href="$classveins_1_1_coord.html#a8420e28c26b3855cbce79a4cf085d477" title="Returns the distance to Coord &#39;a&#39;." alt="" coords="263,20,429,47"/>
+<area shape="rect" id="node5" href="$classveins_1_1_antenna_position.html#a08154432e1365873de146371cc996948" title="Get the (linearly extrapolated) position at time t." alt="" coords="261,71,431,113"/>
+<area shape="rect" id="node6" href="$classveins_1_1_base_world_utility.html#a425e4c8fac6fb8309ae2efd494a19fe6" title="Speed of light in meters per second." alt="" coords="259,137,433,178"/>
+<area shape="rect" id="node3" href="$namespaceanonymous__namespace_02_base_connection_manager_8cc_03.html#a03d2870486bee7d8198d066f67d00e04" title="On a torus the end and the begin of the axes are connected so you get a circle." alt="" coords="481,5,673,61"/>
+<area shape="rect" id="node4" href="$classveins_1_1_f_w_math.html#aa66a76d454bf3d91d8ec390c4737a7a1" title="Returns the remainder r on division of dividend a by divisor n, using floored division." alt="" coords="721,20,897,47"/>
+</map>

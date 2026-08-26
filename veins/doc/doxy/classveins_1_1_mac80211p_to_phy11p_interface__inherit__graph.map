@@ -1,0 +1,4 @@
+<map id="veins::Mac80211pToPhy11pInterface" name="veins::Mac80211pToPhy11pInterface">
+<area shape="rect" id="node1" title="Interface of PhyLayer80211p exposed to Mac1609_4." alt="" coords="5,5,208,47"/>
+<area shape="rect" id="node2" href="$classveins_1_1_phy_layer80211p.html" title="Adaptation of the PhyLayer class for 802.11p." alt="" coords="20,95,193,121"/>
+</map>

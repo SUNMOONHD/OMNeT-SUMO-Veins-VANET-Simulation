@@ -1,0 +1,7 @@
+<map id="anonymous_namespace{BBoxLookup::cc}::makeRay" name="anonymous_namespace{BBoxLookup::cc}::makeRay">
+<area shape="rect" id="node1" title="Return a Ray struct for fast intersection tests from sender to receiver." alt="" coords="929,5,1140,47"/>
+<area shape="rect" id="node2" href="$classveins_1_1_b_box_lookup.html#aafb4c0c12fd2d7623a9fa41010cddb01" title="Return all obstacles which have their bounding box touched by the transmission from sender to receive..." alt="" coords="727,5,881,47"/>
+<area shape="rect" id="node3" href="$classveins_1_1_obstacle_control.html#a7bb694941ec27d078605e730c78644af" title="get hit obstacles (along with a list of points (in [0, 1]) along the line between sender and receiver..." alt="" coords="509,5,679,47"/>
+<area shape="rect" id="node4" href="$classveins_1_1_obstacle_control.html#a2605967770f04849d9319757e66305bf" title="calculate additional attenuation by obstacles, return multiplicative factor" alt="" coords="292,5,461,47"/>
+<area shape="rect" id="node5" href="$classveins_1_1_simple_obstacle_shadowing.html#a232c35993ba999b86d6e700d2152c98a" title="Filters a specified Signal by adding an attenuation over time to the Signal." alt="" coords="5,5,244,47"/>
+</map>

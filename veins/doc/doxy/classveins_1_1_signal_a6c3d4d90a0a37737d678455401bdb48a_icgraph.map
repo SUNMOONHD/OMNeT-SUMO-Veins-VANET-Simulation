@@ -1,0 +1,4 @@
+<map id="veins::Signal::getPropagationDelay" name="veins::Signal::getPropagationDelay">
+<area shape="rect" id="node1" title="Get the propagation delay." alt="" coords="232,5,444,47"/>
+<area shape="rect" id="node2" href="$classveins_1_1_signal.html#ac678bd99ea970d0135330ccaa8458736" title="Create a copy of another signal." alt="" coords="5,13,184,39"/>
+</map>

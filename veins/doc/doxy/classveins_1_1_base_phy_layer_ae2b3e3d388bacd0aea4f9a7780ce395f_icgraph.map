@@ -1,0 +1,4 @@
+<map id="veins::BasePhyLayer::getRadioState" name="veins::BasePhyLayer::getRadioState">
+<area shape="rect" id="node1" title="Return the current state the radio is in." alt="" coords="227,5,384,47"/>
+<area shape="rect" id="node2" href="$classveins_1_1_phy_layer80211p.html#ab49f5c73ab56d3ef2eeea9dbedbb5482" title="Return the current state the radio is in." alt="" coords="5,5,179,47"/>
+</map>

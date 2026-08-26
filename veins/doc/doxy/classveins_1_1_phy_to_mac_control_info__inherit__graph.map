@@ -1,0 +1,4 @@
+<map id="veins::PhyToMacControlInfo" name="veins::PhyToMacControlInfo">
+<area shape="rect" id="node1" title="Controlinfo for packets which are send from Physical layer to the MAC layer." alt="" coords="5,80,208,107"/>
+<area shape="rect" id="node2" title=" " alt="" coords="71,5,142,32"/>
+</map>

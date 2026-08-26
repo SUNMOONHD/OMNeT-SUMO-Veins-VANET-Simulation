@@ -1,0 +1,7 @@
+<map id="veins::BaseConnectionManager" name="veins::BaseConnectionManager">
+<area shape="rect" id="node1" title="Module to control the channel and handle all connection related stuff." alt="" coords="91,200,317,227"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,89,128,115"/>
+<area shape="rect" id="node3" href="$classveins_1_1_coord.html" title="Class for storing 3D coordinates." alt="" coords="153,89,255,115"/>
+<area shape="rect" id="node4" title=" " alt="" coords="169,5,239,32"/>
+<area shape="rect" id="node5" href="$classveins_1_1_base_connection_manager_1_1_grid_coord.html" title="Represents a position inside a grid." alt="" coords="345,81,572,123"/>
+</map>

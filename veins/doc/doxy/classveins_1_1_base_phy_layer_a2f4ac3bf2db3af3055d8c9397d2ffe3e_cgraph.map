@@ -1,0 +1,4 @@
+<map id="veins::BasePhyLayer::getAntennaFromName" name="veins::BasePhyLayer::getAntennaFromName">
+<area shape="rect" id="node1" title="Create and return an instance of the Antenna with the specified name as a shared pointer." alt="" coords="5,5,183,47"/>
+<area shape="rect" id="node2" href="$classveins_1_1_base_phy_layer.html#afe8f862b497716d20c4f380662a25471" title="Creates and returns an instance of the SampledAntenna1D class as a shared pointer." alt="" coords="231,5,445,47"/>
+</map>

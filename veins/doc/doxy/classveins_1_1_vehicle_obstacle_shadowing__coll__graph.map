@@ -1,0 +1,11 @@
+<map id="veins::VehicleObstacleShadowing" name="veins::VehicleObstacleShadowing">
+<area shape="rect" id="node1" title="Basic implementation of a VehicleObstacleShadowing that uses SimplePathlossConstMapping (that is subc..." alt="" coords="1001,95,1243,121"/>
+<area shape="rect" id="node2" href="$classveins_1_1_analogue_model.html" title="Interface for the analogue models of the physical layer." alt="" coords="605,5,772,32"/>
+<area shape="rect" id="node3" href="$classveins_1_1_has_log_proxy.html" title="Helper class for logging from classes not derived from cComponent." alt="" coords="199,5,349,32"/>
+<area shape="rect" id="node4" href="$classveins_1_1_coord.html" title="Class for storing 3D coordinates." alt="" coords="637,95,740,121"/>
+<area shape="rect" id="node5" title=" " alt="" coords="239,75,309,101"/>
+<area shape="rect" id="node6" href="$classveins_1_1_vehicle_obstacle_control.html" title="VehicleObstacleControl models moving obstacles that block radio transmissions." alt="" coords="580,160,797,187"/>
+<area shape="rect" id="node7" title=" " alt="" coords="5,151,128,177"/>
+<area shape="rect" id="node8" href="$classveins_1_1_annotation_manager.html" title="manages annotations on the OMNeT++ canvas." alt="" coords="177,176,371,203"/>
+<area shape="rect" id="node9" href="$classveins_1_1_annotation_manager_1_1_group.html" title=" " alt="" coords="177,227,371,269"/>
+</map>

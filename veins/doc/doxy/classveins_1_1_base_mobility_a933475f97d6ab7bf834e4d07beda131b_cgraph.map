@@ -1,0 +1,5 @@
+<map id="veins::BaseMobility::placeRandomlyIfOutside" name="veins::BaseMobility::placeRandomlyIfOutside">
+<area shape="rect" id="node1" title="Utility function to place the node randomly if it goes outside the playground." alt="" coords="5,5,196,47"/>
+<area shape="rect" id="node2" href="$classveins_1_1_base_world_utility.html#a3c574ecd7a055ba2407f638ce548bc24" title="Random position somewhere in the playground." alt="" coords="244,5,419,47"/>
+<area shape="rect" id="node3" href="$classveins_1_1_base_world_utility.html#aabcceb57843568c213b0772b08971827" title="Initializes all members accessible by other modules." alt="" coords="467,5,641,47"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="veins::BaseDecider::processSignalHeader" name="veins::BaseDecider::processSignalHeader">
+<area shape="rect" id="node1" title="Processes the end of the header of a received Signal." alt="" coords="200,5,367,47"/>
+<area shape="rect" id="node2" href="$classveins_1_1_base_decider.html#a8b488dcd86bfc2749763682ea3589800" title="Processes an AirFrame given by the PhyLayer." alt="" coords="5,5,152,47"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="veins::LAddress::L2NULL" name="veins::LAddress::L2NULL">
+<area shape="rect" id="node1" title="NULL address for L2 addresses." alt="" coords="564,137,747,163"/>
+<area shape="rect" id="node2" href="$classveins_1_1_mac_to_netw_control_info.html#ab2bbb33d50d1c89ab82065af204f2a4c" title=" " alt="" coords="304,5,516,47"/>
+<area shape="rect" id="node3" href="$classveins_1_1_base_mac_layer.html#a51fdaa37f4bb9ace9760e8cad99d6c77" title="Returns the MAC address of this MAC module." alt="" coords="330,71,490,112"/>
+<area shape="rect" id="node4" href="$classveins_1_1_mac1609__4.html#a7e122cb1f3eb15955be9719897448294" title="Returns the MAC address of this MAC module." alt="" coords="5,107,256,134"/>
+<area shape="rect" id="node5" href="$classveins_1_1_base_mac_layer.html#a689fa06067e9df73c7fa19512fe91117" title="Initialization of the module and some variables." alt="" coords="330,188,490,229"/>
+<area shape="rect" id="node7" href="$classveins_1_1_base_mac_layer.html#a8dc38af88b372b6c7c17c7da73d326db" title="Sets the MAC address of this MAC module." alt="" coords="330,253,490,295"/>
+<area shape="rect" id="node6" href="$classveins_1_1_mac1609__4.html#a8d43b34c9fb0b918e447343e5fc344d4" title="States of the channel selecting operation." alt="" coords="29,195,232,222"/>
+</map>

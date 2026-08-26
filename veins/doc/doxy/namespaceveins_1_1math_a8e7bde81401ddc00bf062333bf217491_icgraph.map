@@ -1,0 +1,24 @@
+<map id="veins::math::almost_equal" name="veins::math::almost_equal">
+<area shape="rect" id="node1" title="Compare two floats for approximate equality." alt="" coords="955,195,1107,236"/>
+<area shape="rect" id="node2" href="$classveins_1_1_move.html#a2d86d39dfd7dedf10af25f1e42863d09" title="Returns the position of the Move (Host) at the specified point in time." alt="" coords="711,110,907,137"/>
+<area shape="rect" id="node11" href="$classveins_1_1_sampled_antenna1_d.html#a5b67b034680287a0cc838a7542c72dbe" title="Constructor for the sampled antenna." alt="" coords="711,161,906,203"/>
+<area shape="rect" id="node12" href="$classveins_1_1_move.html#a44d6e37f77b89e7891cb4c805e3c3959" title="Sets the direction to the normalized vector pointing from the current start position to the passed ta..." alt="" coords="715,227,903,268"/>
+<area shape="rect" id="node14" href="$classveins_1_1_move.html#ae583b55d97cf1f59cbb000a584efb67d" title="Sets the direction to the passed vector, which must be already normalized or the 0&#45;vector." alt="" coords="715,360,903,401"/>
+<area shape="rect" id="node3" href="$classveins_1_1_base_mobility.html#abd802d0e5d919085a5422b99cd7c377d" title="Returns the current position at the given simulation time." alt="" coords="508,103,659,144"/>
+<area shape="rect" id="node4" href="$classveins_1_1_mobile_host_obstacle.html#a68f0e2e0e3d53d5f9a0f4dda6d169f3b" title=" " alt="" coords="257,5,453,47"/>
+<area shape="rect" id="node6" href="$classveins_1_1_demo_base_appl_layer.html#a384db2de57cd12b3b5bab48f255bcea7" title="this function is called every time the vehicle receives a position update signal" alt="" coords="255,103,456,144"/>
+<area shape="rect" id="node10" href="$classveins_1_1_mobile_host_obstacle.html#a917b34fd21a31e610dd2f03cecbe73d8" title=" " alt="" coords="257,168,453,209"/>
+<area shape="rect" id="node5" href="$classveins_1_1_mobile_host_obstacle.html#aed1945c5faca9c93208913d9bf9abf79" title="return closest point (in meters) along (senderPos–receiverPos) where this obstacle overlaps,..." alt="" coords="8,5,204,47"/>
+<area shape="rect" id="node7" href="$classveins_1_1_my_veins_app.html#aa22adfb8dcb4f499757e59c7412b4c9f" title="this function is called every time the vehicle receives a position update signal" alt="" coords="23,71,189,112"/>
+<area shape="rect" id="node8" href="$classveins_1_1_tra_c_i_demo11p.html#aae2d2ce4ddead5bf4fdacf8fe00ba7e8" title="this function is called every time the vehicle receives a position update signal" alt="" coords="19,136,193,177"/>
+<area shape="rect" id="node9" href="$classveins_1_1_demo_base_appl_layer.html#acf0b4977efacc25c723cc44a938ee0f9" title=" " alt="" coords="5,201,207,243"/>
+<area shape="rect" id="node13" href="$classveins_1_1_linear_mobility.html#af310806b2b41572de1428e56474bba56" title="Move the host." alt="" coords="504,197,663,239"/>
+<area shape="rect" id="node15" href="$classveins_1_1_tra_c_i_mobility.html#a3137899bb330551c9823c40b4ed8b8fc" title=" " alt="" coords="508,263,659,304"/>
+<area shape="rect" id="node17" href="$classveins_1_1_base_mobility.html#a1cd10753592e8eeb018d8f774ce862c6" title="Called upon arrival of a border messages." alt="" coords="508,328,659,369"/>
+<area shape="rect" id="node19" href="$classveins_1_1_base_mobility.html#ac865e9d430a27e6a3076c0d9293fef35" title="Initializes mobility model parameters." alt="" coords="508,393,659,435"/>
+<area shape="rect" id="node21" href="$classveins_1_1_tra_c_i_mobility.html#a9945ece48d11a01a7973f991b467e848" title=" " alt="" coords="280,459,431,500"/>
+<area shape="rect" id="node22" href="$classveins_1_1_tra_c_i_mobility.html#a678634249e120d1e2614a628d20006f6" title=" " alt="" coords="508,511,659,552"/>
+<area shape="rect" id="node16" href="$classveins_1_1_tra_c_i_mobility.html#ae53642be0d88b9f146cf55a5d990f1a2" title=" " alt="" coords="280,263,431,304"/>
+<area shape="rect" id="node18" href="$classveins_1_1_base_mobility.html#a64b618ee6a35eaebfcfba7d9266be4c8" title="This modules should only receive self&#45;messages." alt="" coords="280,328,431,369"/>
+<area shape="rect" id="node20" href="$classveins_1_1_linear_mobility.html#ac94ebc62ac059949810368634398004b" title="Initializes mobility model parameters." alt="" coords="276,393,435,435"/>
+</map>

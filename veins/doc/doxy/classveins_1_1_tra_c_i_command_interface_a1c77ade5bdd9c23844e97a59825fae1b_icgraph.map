@@ -1,0 +1,5 @@
+<map id="veins::TraCICommandInterface::addVehicle" name="veins::TraCICommandInterface::addVehicle">
+<area shape="rect" id="node1" title="Adds a vehicle to the simulation." alt="" coords="493,5,716,47"/>
+<area shape="rect" id="node2" href="$classveins_1_1_tra_c_i_vehicle_inserter.html#ade9a60eea81690b0dc5ac6803b0c478f" title="tries to add all vehicles in the vehicle queue to SUMO;" alt="" coords="249,5,445,47"/>
+<area shape="rect" id="node3" href="$classveins_1_1_tra_c_i_vehicle_inserter.html#a556643617ac2a26a96baebed9ece0595" title=" " alt="" coords="5,5,201,47"/>
+</map>

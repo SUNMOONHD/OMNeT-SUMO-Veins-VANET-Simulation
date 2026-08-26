@@ -1,0 +1,4 @@
+<map id="veins::TimerSpecification::valid" name="veins::TimerSpecification::valid">
+<area shape="rect" id="node1" title="Checks validity of this specification, i.e., whether all necessary information is set." alt="" coords="212,5,399,47"/>
+<area shape="rect" id="node2" href="$classveins_1_1_timer_manager.html#ab053af5f5100836508fe8e71936f3e10" title="Create a new timer." alt="" coords="5,5,164,47"/>
+</map>

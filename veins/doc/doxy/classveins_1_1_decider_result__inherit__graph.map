@@ -1,0 +1,4 @@
+<map id="veins::DeciderResult" name="veins::DeciderResult">
+<area shape="rect" id="node1" title="A class to represent the result of a processed packet (that is not noise) by the Decider." alt="" coords="25,5,181,32"/>
+<area shape="rect" id="node2" href="$classveins_1_1_decider_result80211.html" title="Defines an extended DeciderResult for the 80211 protocol which stores the bit&#45;rate of the transmissio..." alt="" coords="5,80,201,107"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="veins::Decider80211p" name="veins::Decider80211p">
+<area shape="rect" id="node1" title="Based on Decider80211.h from Karl Wessel and modifications by Christopher Saloman." alt="" coords="254,275,417,301"/>
+<area shape="rect" id="node2" href="$classveins_1_1_base_decider.html" title="Provides some base functionality for most common deciders." alt="" coords="151,178,298,205"/>
+<area shape="rect" id="node3" href="$classveins_1_1_decider.html" title="The basic Decider class." alt="" coords="167,95,282,121"/>
+<area shape="rect" id="node4" href="$classveins_1_1_has_log_proxy.html" title="Helper class for logging from classes not derived from cComponent." alt="" coords="5,5,156,32"/>
+<area shape="rect" id="node5" title=" " alt="" coords="181,5,269,32"/>
+<area shape="rect" id="node6" href="$classveins_1_1_decider_to_phy_interface.html" title="This class is the interface for a Decider to the BasePhyLayer." alt="" coords="293,5,503,32"/>
+<area shape="rect" id="node7" href="$classveins_1_1_decider80211p_to_phy80211p_interface.html" title="Interface of PhyLayer80211p exposed to Decider80211p." alt="" coords="323,171,572,212"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="veins::BaseLayer::handleSelfMsg" name="veins::BaseLayer::handleSelfMsg">
+<area shape="rect" id="node1" title="Handle self messages such as timer..." alt="" coords="239,5,424,47"/>
+<area shape="rect" id="node2" href="$classveins_1_1_base_layer.html#a898e1733d0a0866ec884b6e950385fc6" title="Called every time a message arrives." alt="" coords="5,5,191,47"/>
+</map>

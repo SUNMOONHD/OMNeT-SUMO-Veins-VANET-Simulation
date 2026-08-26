@@ -1,0 +1,35 @@
+<map id="anonymous_namespace{BaseConnectionManager::cc}::dist" name="anonymous_namespace{BaseConnectionManager::cc}::dist">
+<area shape="rect" id="node1" title="On a torus the end and the begin of the axes are connected so you get a circle." alt="" coords="1844,366,2036,422"/>
+<area shape="rect" id="node2" href="$classveins_1_1_coord.html#a8420e28c26b3855cbce79a4cf085d477" title="Returns the distance to Coord &#39;a&#39;." alt="" coords="1617,294,1783,321"/>
+<area shape="rect" id="node25" href="$classveins_1_1_coord.html#a6307af5ac557c0c1400ff72006ba0c8d" title="Returns distance^2 to Coord &#39;a&#39; (omits calling square root)." alt="" coords="1623,381,1777,407"/>
+<area shape="rect" id="node26" href="$namespaceanonymous__namespace_02_base_connection_manager_8cc_03.html#a4c7285eb31fa2914adffc7da4255b6d2" title=" " alt="" coords="1604,503,1796,559"/>
+<area shape="rect" id="node3" href="$classveins_1_1_obstacle_control.html#a2605967770f04849d9319757e66305bf" title="calculate additional attenuation by obstacles, return multiplicative factor" alt="" coords="1358,5,1527,47"/>
+<area shape="rect" id="node5" href="$classveins_1_1_channel_access.html#a01c12c70034ec0583ee5f4e1ac0f683b" title="Calculates the propagation delay to the passed receiving nic." alt="" coords="1340,71,1545,112"/>
+<area shape="rect" id="node10" href="$classveins_1_1_tra_c_i_mobility.html#a3137899bb330551c9823c40b4ed8b8fc" title=" " alt="" coords="803,260,954,301"/>
+<area shape="rect" id="node12" href="$classveins_1_1_nakagami_fading.html#a630ff5ca1212baf8d9afac0d017229da" title="Simple Nakagami&#45;m fading (based on a constant factor across all time and frequencies)." alt="" coords="1355,188,1530,229"/>
+<area shape="rect" id="node13" href="$classveins_1_1_two_ray_interference_model.html#a4c322a29e4987d2021bee9234a0ad0b9" title="Has to be overriden by every implementation." alt="" coords="1345,253,1540,295"/>
+<area shape="rect" id="node14" href="$classveins_1_1_mobile_host_obstacle.html#aed1945c5faca9c93208913d9bf9abf79" title="return closest point (in meters) along (senderPos–receiverPos) where this obstacle overlaps,..." alt="" coords="1345,319,1541,360"/>
+<area shape="rect" id="node15" href="$classveins_1_1_vehicle_obstacle_control.html#acbf5a8114d47f9d0708c93a9c788dd47" title="get distance and height of potential obstacles" alt="" coords="1334,384,1551,425"/>
+<area shape="rect" id="node17" href="$classveins_1_1_base_mobility.html#aae36006995d117a723134cbe1fee5e90" title="Main border handling function." alt="" coords="1367,449,1518,491"/>
+<area shape="rect" id="node21" href="$classveins_1_1_tra_c_i_scenario_manager.html#a5389f3fc889b1fe3fd126c33a7d9ae36" title=" " alt="" coords="1337,515,1548,556"/>
+<area shape="rect" id="node4" href="$classveins_1_1_simple_obstacle_shadowing.html#a232c35993ba999b86d6e700d2152c98a" title="Filters a specified Signal by adding an attenuation over time to the Signal." alt="" coords="1041,5,1280,47"/>
+<area shape="rect" id="node6" href="$classveins_1_1_channel_access.html#ae370934ad7b1feacc1cb6bd6ad437198" title="Sends a message to all nics connected to this one." alt="" coords="1079,71,1242,112"/>
+<area shape="rect" id="node7" href="$classveins_1_1_base_phy_layer.html#a1fe847ed3e50ccf3a3740234dfee42b1" title="Send the passed AirFrame to the channel." alt="" coords="800,71,957,112"/>
+<area shape="rect" id="node8" href="$classveins_1_1_base_phy_layer.html#a17b1d469775962d23835dd5f43a639ac" title="Handle messages received from the upper layer and start transmitting them." alt="" coords="519,71,689,112"/>
+<area shape="rect" id="node9" href="$classveins_1_1_base_phy_layer.html#a54c20b44779b724638e62f941b656f9c" title="Process received messages and pass to specific handlers." alt="" coords="251,71,408,112"/>
+<area shape="rect" id="node11" href="$classveins_1_1_tra_c_i_mobility.html#ae53642be0d88b9f146cf55a5d990f1a2" title=" " alt="" coords="529,260,679,301"/>
+<area shape="rect" id="node16" href="$classveins_1_1_vehicle_obstacle_shadowing.html#aa1a8069440240b74a7a8ea0c91b06116" title="Filters a specified Signal by adding an attenuation over time to the Signal." alt="" coords="1040,319,1281,360"/>
+<area shape="rect" id="node18" href="$classveins_1_1_linear_mobility.html#a506fdc3882892c0fc4427df73736010e" title="Should be redefined in subclasses." alt="" coords="1077,449,1244,491"/>
+<area shape="rect" id="node20" href="$classveins_1_1_tra_c_i_mobility.html#a4fa20054882e4a7fb5b03a13576311c3" title="called after each read to check for (and handle) invalid positions" alt="" coords="1077,384,1244,425"/>
+<area shape="rect" id="node19" href="$classveins_1_1_linear_mobility.html#af310806b2b41572de1428e56474bba56" title="Move the host." alt="" coords="799,449,958,491"/>
+<area shape="rect" id="node22" href="$classveins_1_1_tra_c_i_scenario_manager.html#a86a0b91aab8823c087c33b99f3a06b1f" title=" " alt="" coords="1055,515,1266,556"/>
+<area shape="rect" id="node24" href="$classveins_1_1_tra_c_i_scenario_manager_launchd.html#a5547124fea3c83e5492a9cdb029948c9" title=" " alt="" coords="1055,580,1266,621"/>
+<area shape="rect" id="node23" href="$classveins_1_1_tra_c_i_scenario_manager.html#ac66ce95372a25d1860ad24748363090d" title=" " alt="" coords="773,515,984,556"/>
+<area shape="rect" id="node27" href="$classveins_1_1_base_connection_manager.html#a418d9fb4151ff38840838a94189ba8b6" title="Check if the two nic&#39;s are in range." alt="" coords="1329,612,1556,653"/>
+<area shape="rect" id="node28" href="$classveins_1_1_base_connection_manager.html#af36a4fd1f31773f63187cc9717441a98" title="Manages the connections of a registered nic." alt="" coords="1047,645,1274,687"/>
+<area shape="rect" id="node29" href="$classveins_1_1_base_connection_manager.html#a063c137e5a6d73ff846321b511d48a32" title="Check connections of a nic in the grid." alt="" coords="765,645,992,687"/>
+<area shape="rect" id="node30" href="$classveins_1_1_base_connection_manager.html#af87d8c9c33b54eb6bf8a5f43e6e36a96" title="Updates the connections of the nic with &quot;nicID&quot;." alt="" coords="491,645,717,687"/>
+<area shape="rect" id="node31" href="$classveins_1_1_base_connection_manager.html#a35d8c27aeacff47e0e62135ffe065078" title="Registers a nic to have its connections managed by ConnectionManager." alt="" coords="216,612,443,653"/>
+<area shape="rect" id="node33" href="$classveins_1_1_base_connection_manager.html#af264b3c891bde0a49dd003c584c997ac" title="Updates the position information of a registered nic." alt="" coords="216,677,443,719"/>
+<area shape="rect" id="node32" href="$classveins_1_1_channel_access.html#a152e2780da20c82d3751d521142a5f90" title="Called by the signalling mechanism to inform of changes." alt="" coords="5,645,168,687"/>
+</map>

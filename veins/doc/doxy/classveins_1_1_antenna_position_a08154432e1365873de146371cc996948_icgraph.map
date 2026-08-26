@@ -1,0 +1,22 @@
+<map id="veins::AntennaPosition::getPositionAt" name="veins::AntennaPosition::getPositionAt">
+<area shape="rect" id="node1" title="Get the (linearly extrapolated) position at time t." alt="" coords="1213,339,1384,380"/>
+<area shape="rect" id="node2" href="$classveins_1_1_channel_access.html#a01c12c70034ec0583ee5f4e1ac0f683b" title="Calculates the propagation delay to the passed receiving nic." alt="" coords="943,25,1149,67"/>
+<area shape="rect" id="node7" href="$classveins_1_1_base_phy_layer.html#adb6dcf56295ceb53b34e83eb409a40a2" title="Filter the passed AirFrame&#39;s Signal by every registered AnalogueModel." alt="" coords="967,91,1125,132"/>
+<area shape="rect" id="node12" href="$classveins_1_1_breakpoint_pathloss_model.html#aeb1eff2df94e21c6ed4f16adae50cf3f" title="Filters a specified AirFrame&#39;s Signal by adding an attenuation over time to the Signal." alt="" coords="951,156,1141,197"/>
+<area shape="rect" id="node13" href="$classveins_1_1_p_e_r_model.html#adb563a9e10232d935d4489869ffb5ad3" title="Has to be overriden by every implementation." alt="" coords="941,222,1151,249"/>
+<area shape="rect" id="node14" href="$classveins_1_1_simple_pathloss_model.html#a71783f3a91bb7178629fa58aadf793e4" title="Filters a specified AirFrame&#39;s Signal by adding an attenuation over time to the Signal." alt="" coords="943,273,1149,315"/>
+<area shape="rect" id="node15" href="$classveins_1_1_nakagami_fading.html#a630ff5ca1212baf8d9afac0d017229da" title="Simple Nakagami&#45;m fading (based on a constant factor across all time and frequencies)." alt="" coords="959,339,1133,380"/>
+<area shape="rect" id="node16" href="$classveins_1_1_simple_obstacle_shadowing.html#a232c35993ba999b86d6e700d2152c98a" title="Filters a specified Signal by adding an attenuation over time to the Signal." alt="" coords="927,404,1165,445"/>
+<area shape="rect" id="node17" href="$classveins_1_1_two_ray_interference_model.html#a4c322a29e4987d2021bee9234a0ad0b9" title="Has to be overriden by every implementation." alt="" coords="949,469,1143,511"/>
+<area shape="rect" id="node18" href="$classveins_1_1_vehicle_obstacle_shadowing.html#aa1a8069440240b74a7a8ea0c91b06116" title="Filters a specified Signal by adding an attenuation over time to the Signal." alt="" coords="637,557,879,599"/>
+<area shape="rect" id="node19" href="$classveins_1_1_vehicle_obstacle_control.html#acbf5a8114d47f9d0708c93a9c788dd47" title="get distance and height of potential obstacles" alt="" coords="937,587,1155,628"/>
+<area shape="rect" id="node20" href="$classveins_1_1_channel_access.html#a152e2780da20c82d3751d521142a5f90" title="Called by the signalling mechanism to inform of changes." alt="" coords="965,652,1127,693"/>
+<area shape="rect" id="node3" href="$classveins_1_1_channel_access.html#ae370934ad7b1feacc1cb6bd6ad437198" title="Sends a message to all nics connected to this one." alt="" coords="677,25,839,67"/>
+<area shape="rect" id="node4" href="$classveins_1_1_base_phy_layer.html#a1fe847ed3e50ccf3a3740234dfee42b1" title="Send the passed AirFrame to the channel." alt="" coords="432,19,589,60"/>
+<area shape="rect" id="node5" href="$classveins_1_1_base_phy_layer.html#a17b1d469775962d23835dd5f43a639ac" title="Handle messages received from the upper layer and start transmitting them." alt="" coords="212,5,383,47"/>
+<area shape="rect" id="node6" href="$classveins_1_1_base_phy_layer.html#a54c20b44779b724638e62f941b656f9c" title="Process received messages and pass to specific handlers." alt="" coords="5,64,163,105"/>
+<area shape="rect" id="node8" href="$classveins_1_1_base_phy_layer.html#a671f083680882230b754b7e9578e6274" title="Handle incoming AirFrames with the state AirFrameState::start_receive." alt="" coords="650,91,866,132"/>
+<area shape="rect" id="node9" href="$classveins_1_1_base_phy_layer.html#a8d6f371fa6ea6ca89cb78764a05f31dd" title="Handle messages received from the channel." alt="" coords="432,97,589,139"/>
+<area shape="rect" id="node10" href="$classveins_1_1_base_phy_layer.html#a17088ad93f59e143ff6c7ba866a31982" title="Handle self scheduled messages." alt="" coords="219,123,376,164"/>
+<area shape="rect" id="node11" href="$classveins_1_1_phy_layer80211p.html#a020601bba0e334a622dc8e193c5946b0" title="Handle self scheduled messages." alt="" coords="211,188,384,229"/>
+</map>

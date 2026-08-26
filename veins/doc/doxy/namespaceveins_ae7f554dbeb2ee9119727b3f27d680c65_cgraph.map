@@ -1,0 +1,4 @@
+<map id="veins::operator/" name="veins::operator/">
+<area shape="rect" id="node1" title="Divide a a constant by a signal&#39;s power levels." alt="" coords="5,5,129,32"/>
+<area shape="rect" id="node2" href="$classveins_1_1_signal.html#ac9b8c5004d4d0eaa4f5f6656dec9c7ba" title="Get the Spectrum this Signal is defined on." alt="" coords="177,5,373,32"/>
+</map>

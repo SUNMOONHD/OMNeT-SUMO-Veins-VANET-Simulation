@@ -1,0 +1,5 @@
+<map id="veins::TraCITrafficLightAbstractLogic" name="veins::TraCITrafficLightAbstractLogic">
+<area shape="rect" id="node1" title="Base class to simplify implementation of traffic light logics." alt="" coords="45,95,216,136"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,5,128,32"/>
+<area shape="rect" id="node3" title=" " alt="" coords="153,5,239,32"/>
+</map>

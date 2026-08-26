@@ -1,0 +1,13 @@
+<map id="veins::Signal::at" name="veins::Signal::at">
+<area shape="rect" id="node1" title="Get the power in milliwatt for the given frequency index." alt="" coords="1085,209,1212,235"/>
+<area shape="rect" id="node2" href="$classveins_1_1_phy_layer80211p.html#a1d1b85c74e35e6b7dd8a906a290e559c" title="Attach a signal to the given AirFrame." alt="" coords="817,5,991,47"/>
+<area shape="rect" id="node3" href="$classveins_1_1_simple_pathloss_model.html#a71783f3a91bb7178629fa58aadf793e4" title="Filters a specified AirFrame&#39;s Signal by adding an attenuation over time to the Signal." alt="" coords="801,71,1007,112"/>
+<area shape="rect" id="node4" href="$classveins_1_1_two_ray_interference_model.html#a4c322a29e4987d2021bee9234a0ad0b9" title="Has to be overriden by every implementation." alt="" coords="807,136,1001,177"/>
+<area shape="rect" id="node5" href="$classveins_1_1_vehicle_obstacle_shadowing.html#aa1a8069440240b74a7a8ea0c91b06116" title="Filters a specified Signal by adding an attenuation over time to the Signal." alt="" coords="216,231,457,272"/>
+<area shape="rect" id="node6" href="$namespaceveins_1_1_signal_utils_1_1anonymous__namespace_02_signal_utils_8cc_03.html#adec53cec45469bce01bd893290800df5" title=" " alt="" coords="771,318,1037,374"/>
+<area shape="rect" id="node7" href="$namespaceveins_1_1_signal_utils.html#a65bf87cf643cccf540dc5f0802a71427" title="return the minimal Signal to (Interference + Noise) Ratio at any data channel of signalFrame&#39;s signal" alt="" coords="547,357,681,399"/>
+<area shape="rect" id="node10" href="$classveins_1_1_vehicle_obstacle_control.html#aba9a4a4986cd0141c6bd5404069f9460" title="compute attenuation due to (single) vehicle." alt="" coords="795,201,1013,243"/>
+<area shape="rect" id="node8" href="$classveins_1_1_decider80211p.html#a01349c12df6c01678d1e25553b754819" title="Checks a mapping against a specific threshold (element&#45;wise)." alt="" coords="255,357,418,399"/>
+<area shape="rect" id="node9" href="$classveins_1_1_decider80211p.html#a389f17ab33d4fc22b499593fa0837faf" title="Processes a received AirFrame." alt="" coords="5,357,168,399"/>
+<area shape="rect" id="node11" href="$classveins_1_1_vehicle_obstacle_control.html#adf2407d9dcb0830d99775342e3304f15" title="compute attenuation due to vehicles." alt="" coords="505,201,723,243"/>
+</map>

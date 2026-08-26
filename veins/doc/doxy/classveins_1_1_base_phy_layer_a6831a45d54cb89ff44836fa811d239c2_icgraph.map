@@ -1,0 +1,5 @@
+<map id="veins::BasePhyLayer::initializeAntenna" name="veins::BasePhyLayer::initializeAntenna">
+<area shape="rect" id="node1" title="Initialize the Antenna with the data from the passed XML&#45;config data." alt="" coords="432,5,589,47"/>
+<area shape="rect" id="node2" href="$classveins_1_1_base_phy_layer.html#a63e95c45ba5f46514ed9027c53216491" title="Initialize members and associated objects according to parameterization." alt="" coords="227,5,384,47"/>
+<area shape="rect" id="node3" href="$classveins_1_1_phy_layer80211p.html#abdd1c62986d1fd220eb5e51d4458811a" title=" " alt="" coords="5,5,179,47"/>
+</map>

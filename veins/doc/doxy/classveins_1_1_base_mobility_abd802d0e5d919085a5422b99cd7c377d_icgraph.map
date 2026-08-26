@@ -1,0 +1,10 @@
+<map id="veins::BaseMobility::getPositionAt" name="veins::BaseMobility::getPositionAt">
+<area shape="rect" id="node1" title="Returns the current position at the given simulation time." alt="" coords="504,104,655,145"/>
+<area shape="rect" id="node2" href="$classveins_1_1_mobile_host_obstacle.html#a68f0e2e0e3d53d5f9a0f4dda6d169f3b" title=" " alt="" coords="257,23,453,64"/>
+<area shape="rect" id="node4" href="$classveins_1_1_demo_base_appl_layer.html#a384db2de57cd12b3b5bab48f255bcea7" title="this function is called every time the vehicle receives a position update signal" alt="" coords="255,104,456,145"/>
+<area shape="rect" id="node8" href="$classveins_1_1_mobile_host_obstacle.html#a917b34fd21a31e610dd2f03cecbe73d8" title=" " alt="" coords="257,169,453,211"/>
+<area shape="rect" id="node3" href="$classveins_1_1_mobile_host_obstacle.html#aed1945c5faca9c93208913d9bf9abf79" title="return closest point (in meters) along (senderPos–receiverPos) where this obstacle overlaps,..." alt="" coords="8,5,204,47"/>
+<area shape="rect" id="node5" href="$classveins_1_1_my_veins_app.html#aa22adfb8dcb4f499757e59c7412b4c9f" title="this function is called every time the vehicle receives a position update signal" alt="" coords="23,71,189,112"/>
+<area shape="rect" id="node6" href="$classveins_1_1_tra_c_i_demo11p.html#aae2d2ce4ddead5bf4fdacf8fe00ba7e8" title="this function is called every time the vehicle receives a position update signal" alt="" coords="19,136,193,177"/>
+<area shape="rect" id="node7" href="$classveins_1_1_demo_base_appl_layer.html#acf0b4977efacc25c723cc44a938ee0f9" title=" " alt="" coords="5,201,207,243"/>
+</map>

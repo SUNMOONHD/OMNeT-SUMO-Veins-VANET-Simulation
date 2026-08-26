@@ -1,0 +1,5 @@
+<map id="veins::BasePhyLayer::initializeDecider" name="veins::BasePhyLayer::initializeDecider">
+<area shape="rect" id="node1" title="Initialize the Decider with the data from the passed XML&#45;config data." alt="" coords="5,39,163,80"/>
+<area shape="rect" id="node2" href="$classveins_1_1_base_phy_layer.html#aa38b7628ab90623a528609dd6334dbf7" title="Create and return an instance of the Decider with the specified name." alt="" coords="217,5,391,47"/>
+<area shape="rect" id="node3" href="$classveins_1_1_base_phy_layer.html#aa89a9272b99ab3005347301c2effc254" title="Read the parameters of a XML element and stores them in the passed ParameterMap reference." alt="" coords="211,71,397,112"/>
+</map>

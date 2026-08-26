@@ -1,0 +1,6 @@
+<map id="veins::MacToNetwControlInfo::setControlInfo" name="veins::MacToNetwControlInfo::setControlInfo">
+<area shape="rect" id="node1" title="Attaches a &quot;control info&quot; structure (object) to the message pMsg." alt="" coords="629,5,841,47"/>
+<area shape="rect" id="node2" href="$classveins_1_1_base_mac_layer.html#a7ff1f42ff72aee9670a012ebffb54881" title="Attaches a &quot;control info&quot; (MacToNetw) structure (object) to the message pMsg." alt="" coords="421,5,581,47"/>
+<area shape="rect" id="node3" href="$classveins_1_1_base_mac_layer.html#ab5c40c53eda6e5a5041bddebfab6e0b6" title="decapsulate the network message from the MacPkt" alt="" coords="213,5,373,47"/>
+<area shape="rect" id="node4" href="$classveins_1_1_base_mac_layer.html#a65b38b9b47cec29bd5be9613271585c3" title="If message arrives from lower layer, check whether it is for us." alt="" coords="5,5,165,47"/>
+</map>

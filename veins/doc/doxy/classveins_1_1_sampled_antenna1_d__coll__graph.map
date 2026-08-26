@@ -1,0 +1,4 @@
+<map id="veins::SampledAntenna1D" name="veins::SampledAntenna1D">
+<area shape="rect" id="node1" title="This class represents an antenna whose gain is calculated from given samples in the horizontal plane." alt="" coords="5,80,200,107"/>
+<area shape="rect" id="node2" href="$classveins_1_1_antenna.html" title="The Antenna class is the base class of all antenna models." alt="" coords="43,5,162,32"/>
+</map>

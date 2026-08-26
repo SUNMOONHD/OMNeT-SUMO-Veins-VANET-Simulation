@@ -1,0 +1,12 @@
+<map id="veins::Signal::getDuration" name="veins::Signal::getDuration">
+<area shape="rect" id="node1" title="Get the duration." alt="" coords="1147,107,1337,134"/>
+<area shape="rect" id="node2" href="$classveins_1_1_phy_layer80211p.html#a1d1b85c74e35e6b7dd8a906a290e559c" title="Attach a signal to the given AirFrame." alt="" coords="913,5,1087,47"/>
+<area shape="rect" id="node3" href="$classveins_1_1_base_phy_layer.html#a9dbbcf0004b22c622ec4b06a19b4f564" title="Handle incoming AirFrames with the state AirFrameState::receiving." alt="" coords="901,71,1099,112"/>
+<area shape="rect" id="node9" href="$classveins_1_1_signal.html#ac678bd99ea970d0135330ccaa8458736" title="Create a copy of another signal." alt="" coords="911,137,1089,163"/>
+<area shape="rect" id="node10" href="$classveins_1_1_decider80211p.html#a6604c73b2ee786a4eeca5abe6f072cab" title="Processes a new Signal." alt="" coords="919,188,1081,229"/>
+<area shape="rect" id="node4" href="$classveins_1_1_base_phy_layer.html#a8d6f371fa6ea6ca89cb78764a05f31dd" title="Handle messages received from the channel." alt="" coords="432,71,589,112"/>
+<area shape="rect" id="node8" href="$classveins_1_1_base_phy_layer.html#a671f083680882230b754b7e9578e6274" title="Handle incoming AirFrames with the state AirFrameState::start_receive." alt="" coords="637,100,853,141"/>
+<area shape="rect" id="node5" href="$classveins_1_1_base_phy_layer.html#a54c20b44779b724638e62f941b656f9c" title="Process received messages and pass to specific handlers." alt="" coords="5,41,163,83"/>
+<area shape="rect" id="node6" href="$classveins_1_1_base_phy_layer.html#a17088ad93f59e143ff6c7ba866a31982" title="Handle self scheduled messages." alt="" coords="219,71,376,112"/>
+<area shape="rect" id="node7" href="$classveins_1_1_phy_layer80211p.html#a020601bba0e334a622dc8e193c5946b0" title="Handle self scheduled messages." alt="" coords="211,136,384,177"/>
+</map>

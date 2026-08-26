@@ -1,0 +1,7 @@
+<map id="veins::SimplePathlossModel" name="veins::SimplePathlossModel">
+<area shape="rect" id="node1" title="Basic implementation of a SimplePathlossModel." alt="" coords="65,171,270,197"/>
+<area shape="rect" id="node2" href="$classveins_1_1_analogue_model.html" title="Interface for the analogue models of the physical layer." alt="" coords="5,81,172,108"/>
+<area shape="rect" id="node3" href="$classveins_1_1_has_log_proxy.html" title="Helper class for logging from classes not derived from cComponent." alt="" coords="13,5,164,32"/>
+<area shape="rect" id="node4" href="$classveins_1_1_coord.html" title="Class for storing 3D coordinates." alt="" coords="196,81,299,108"/>
+<area shape="rect" id="node5" title=" " alt="" coords="212,5,283,32"/>
+</map>

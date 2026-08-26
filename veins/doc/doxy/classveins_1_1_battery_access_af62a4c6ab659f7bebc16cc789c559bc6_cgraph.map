@@ -1,0 +1,4 @@
+<map id="veins::BatteryAccess::drawCurrent" name="veins::BatteryAccess::drawCurrent">
+<area shape="rect" id="node1" title="Draws the passed amount of current (in mA) over time from the battery on account of the passed accoun..." alt="" coords="5,5,164,47"/>
+<area shape="rect" id="node2" href="$classveins_1_1_base_battery.html#affd93b0b525452e73a068c5b3dac7411" title="Draws power from the battery." alt="" coords="212,5,357,47"/>
+</map>

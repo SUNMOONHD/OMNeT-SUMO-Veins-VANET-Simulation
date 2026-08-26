@@ -1,0 +1,7 @@
+<map id="veins::Heading::getRad" name="veins::Heading::getRad">
+<area shape="rect" id="node1" title="Returns the angle (in rad, with 0 degrees being east and 90 degrees being north)." alt="" coords="565,78,739,105"/>
+<area shape="rect" id="node2" href="$classveins_1_1_mobile_host_obstacle.html#a68f0e2e0e3d53d5f9a0f4dda6d169f3b" title=" " alt="" coords="285,5,481,47"/>
+<area shape="rect" id="node4" href="$classveins_1_1_tra_c_i_coordinate_transformation.html#a592db5b7a7b7e4ed397609076f04ad1f" title="TraCI&#39;s heading interpretation: 0 is north, 90 is east." alt="" coords="249,71,517,112"/>
+<area shape="rect" id="node5" href="$namespaceveins.html#a1050fafc7711c48b53398e360ee1d269" title=" " alt="" coords="312,137,455,163"/>
+<area shape="rect" id="node3" href="$classveins_1_1_mobile_host_obstacle.html#aed1945c5faca9c93208913d9bf9abf79" title="return closest point (in meters) along (senderPos–receiverPos) where this obstacle overlaps,..." alt="" coords="5,5,201,47"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="veins::TraCICommandInterface::Route" name="veins::TraCICommandInterface::Route">
+<area shape="rect" id="node1" title=" " alt="" coords="5,275,228,316"/>
+<area shape="rect" id="node2" href="$classveins_1_1_tra_c_i_connection.html" title=" " alt="" coords="77,89,247,115"/>
+<area shape="rect" id="node4" href="$classveins_1_1_tra_c_i_command_interface.html" title=" " alt="" coords="196,185,419,212"/>
+<area shape="rect" id="node3" href="$classveins_1_1_has_log_proxy.html" title="Helper class for logging from classes not derived from cComponent." alt="" coords="148,5,299,32"/>
+<area shape="rect" id="node5" href="$structveins_1_1_tra_c_i_command_interface_1_1_version_config.html" title=" " alt="" coords="321,81,544,123"/>
+</map>

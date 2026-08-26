@@ -1,0 +1,9 @@
+<map id="veins::Signal" name="veins::Signal">
+<area shape="rect" id="node1" title="A Signal represents the power measured on a channel." alt="" coords="100,408,206,435"/>
+<area shape="rect" id="node2" title=" " alt="" coords="18,81,106,108"/>
+<area shape="rect" id="node6" href="$classveins_1_1_antenna_position.html" title="Stores the position of the host&#39;s antenna along with its speed, so that it can be linearly extrapolat..." alt="" coords="42,185,213,212"/>
+<area shape="rect" id="node3" href="$classveins_1_1_p_o_a.html" title="Container class used to attach data to Airframe s which are needed by the receiver for antenna gain c..." alt="" coords="107,304,199,331"/>
+<area shape="rect" id="node4" href="$classveins_1_1_coord.html" title="Class for storing 3D coordinates." alt="" coords="158,81,260,108"/>
+<area shape="rect" id="node5" title=" " alt="" coords="174,5,244,32"/>
+<area shape="rect" id="node7" href="$classveins_1_1_spectrum.html" title=" " alt="" coords="223,304,350,331"/>
+</map>

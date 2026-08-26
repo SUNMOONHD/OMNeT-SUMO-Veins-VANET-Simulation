@@ -1,0 +1,4 @@
+<map id="veins::BaseApplLayer::sendDelayedDown" name="veins::BaseApplLayer::sendDelayedDown">
+<area shape="rect" id="node1" title="Sends a message delayed to the lower layer." alt="" coords="5,5,168,47"/>
+<area shape="rect" id="node2" href="$classveins_1_1_base_layer.html#a33f4f320f4b6c4ec48651847338ff47f" title=" " alt="" coords="216,5,399,47"/>
+</map>

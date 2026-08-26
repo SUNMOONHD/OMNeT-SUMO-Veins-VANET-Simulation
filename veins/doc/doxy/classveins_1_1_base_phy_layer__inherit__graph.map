@@ -1,0 +1,12 @@
+<map id="veins::BasePhyLayer" name="veins::BasePhyLayer">
+<area shape="rect" id="node1" title="The BasePhyLayer represents the physical layer of a nic." alt="" coords="364,304,521,331"/>
+<area shape="rect" id="node10" href="$classveins_1_1_phy_layer80211p.html" title="Adaptation of the PhyLayer class for 802.11p." alt="" coords="356,379,529,405"/>
+<area shape="rect" id="node2" href="$classveins_1_1_channel_access.html" title="Basic class for all physical layers, please don&#39;t touch!!" alt="" coords="151,229,313,256"/>
+<area shape="rect" id="node3" href="$classveins_1_1_battery_access.html" title="Extends BaseModule by several methods which provide access to the battery module." alt="" coords="50,155,209,181"/>
+<area shape="rect" id="node4" href="$classveins_1_1_base_module.html" title="Base class for all simple modules of a host." alt="" coords="57,80,202,107"/>
+<area shape="rect" id="node5" title=" " alt="" coords="5,5,128,32"/>
+<area shape="rect" id="node6" title=" " alt="" coords="153,5,234,32"/>
+<area shape="rect" id="node7" href="$classveins_1_1_access_module_wrap.html" title="Finds and returns the pointer to a module of type T." alt="" coords="233,155,436,181"/>
+<area shape="rect" id="node8" href="$classveins_1_1_decider_to_phy_interface.html" title="This class is the interface for a Decider to the BasePhyLayer." alt="" coords="337,229,548,256"/>
+<area shape="rect" id="node9" href="$classveins_1_1_mac_to_phy_interface.html" title="Defines the methods provided by the phy to the mac layer." alt="" coords="573,229,761,256"/>
+</map>

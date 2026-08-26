@@ -1,0 +1,6 @@
+<map id="veins::BaseLayer::initialize" name="veins::BaseLayer::initialize">
+<area shape="rect" id="node1" title="Initialization of the module and some variables." alt="" coords="5,13,203,39"/>
+<area shape="rect" id="node2" href="$classveins_1_1_base_module.html#a66e943d61eb3d43e5a999ccbaf010fd9" title="Basic initialization for all modules." alt="" coords="251,5,404,47"/>
+<area shape="rect" id="node3" href="$classveins_1_1_base_module.html#a1d2d2af49918dfb9ae036b1d086b123a" title="Function to get a pointer to the host module." alt="" coords="452,5,605,47"/>
+<area shape="rect" id="node4" href="$classveins_1_1_find_module.html#a01accd625bef9763ba8baabc5e9d5eeb" title="Returns a pointer to the host module of the passed module." alt="" coords="653,5,800,47"/>
+</map>

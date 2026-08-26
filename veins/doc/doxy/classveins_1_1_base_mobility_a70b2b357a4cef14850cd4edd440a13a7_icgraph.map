@@ -1,0 +1,4 @@
+<map id="veins::BaseMobility::handleSelfMsg" name="veins::BaseMobility::handleSelfMsg">
+<area shape="rect" id="node1" title="Called upon arrival of a self messages." alt="" coords="204,5,355,47"/>
+<area shape="rect" id="node2" href="$classveins_1_1_base_mobility.html#a64b618ee6a35eaebfcfba7d9266be4c8" title="This modules should only receive self&#45;messages." alt="" coords="5,5,156,47"/>
+</map>

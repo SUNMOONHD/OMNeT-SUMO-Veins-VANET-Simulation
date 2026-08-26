@@ -1,0 +1,11 @@
+<map id="veins::TraCITrafficLightInterface::initialize" name="veins::TraCITrafficLightInterface::initialize">
+<area shape="rect" id="node1" title=" " alt="" coords="5,235,176,276"/>
+<area shape="rect" id="node2" href="$classveins_1_1_tra_c_i_command_interface_1_1_trafficlight.html#a9f9be2433847af1116b9a282eb2e2659" title=" " alt="" coords="224,5,519,47"/>
+<area shape="rect" id="node3" href="$classveins_1_1_tra_c_i_traffic_light_interface.html#a118d918705f50d855a1625dd2ec06cba" title=" " alt="" coords="266,71,477,112"/>
+<area shape="rect" id="node4" href="$classveins_1_1_tra_c_i_command_interface_1_1_trafficlight.html#a7f67ace6e2a4be1861233172c0f844c2" title=" " alt="" coords="245,136,497,177"/>
+<area shape="rect" id="node5" href="$classveins_1_1_tra_c_i_command_interface_1_1_trafficlight.html#a2be8360f3674d1da474bbb3d2f510e78" title=" " alt="" coords="248,201,495,243"/>
+<area shape="rect" id="node6" href="$classveins_1_1_tra_c_i_command_interface_1_1_trafficlight.html#a68d154971923ce65475f505d11194572" title=" " alt="" coords="260,267,483,308"/>
+<area shape="rect" id="node7" href="$classveins_1_1_tra_c_i_traffic_light_interface.html#a9847258e132057e8ded600dd076c8daa" title=" " alt="" coords="248,332,495,373"/>
+<area shape="rect" id="node8" href="$classveins_1_1_tra_c_i_traffic_light_interface.html#a4c8228ed99c41d09dc2649d796b04874" title=" " alt="" coords="267,397,476,439"/>
+<area shape="rect" id="node9" href="$classveins_1_1_tra_c_i_traffic_light_interface.html#a10132851c827649749cece8aec7263d6" title=" " alt="" coords="258,463,485,504"/>
+</map>

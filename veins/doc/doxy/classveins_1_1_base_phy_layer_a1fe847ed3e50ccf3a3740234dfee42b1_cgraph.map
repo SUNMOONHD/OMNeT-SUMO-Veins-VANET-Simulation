@@ -1,0 +1,11 @@
+<map id="veins::BasePhyLayer::sendMessageDown" name="veins::BasePhyLayer::sendMessageDown">
+<area shape="rect" id="node1" title="Send the passed AirFrame to the channel." alt="" coords="5,105,163,146"/>
+<area shape="rect" id="node2" href="$classveins_1_1_channel_access.html#ae370934ad7b1feacc1cb6bd6ad437198" title="Sends a message to all nics connected to this one." alt="" coords="211,105,373,146"/>
+<area shape="rect" id="node3" href="$classveins_1_1_channel_access.html#a01c12c70034ec0583ee5f4e1ac0f683b" title="Calculates the propagation delay to the passed receiving nic." alt="" coords="432,71,637,113"/>
+<area shape="rect" id="node9" href="$classveins_1_1_base_connection_manager.html#a32172876aa44e95bce3e7d4484c041ec" title="Returns the ingates of all nics in range." alt="" coords="421,137,648,178"/>
+<area shape="rect" id="node4" href="$classveins_1_1_coord.html#a8420e28c26b3855cbce79a4cf085d477" title="Returns the distance to Coord &#39;a&#39;." alt="" coords="700,20,867,47"/>
+<area shape="rect" id="node7" href="$classveins_1_1_antenna_position.html#a08154432e1365873de146371cc996948" title="Get the (linearly extrapolated) position at time t." alt="" coords="698,71,869,113"/>
+<area shape="rect" id="node8" href="$classveins_1_1_base_world_utility.html#a425e4c8fac6fb8309ae2efd494a19fe6" title="Speed of light in meters per second." alt="" coords="696,137,871,178"/>
+<area shape="rect" id="node5" href="$namespaceanonymous__namespace_02_base_connection_manager_8cc_03.html#a03d2870486bee7d8198d066f67d00e04" title="On a torus the end and the begin of the axes are connected so you get a circle." alt="" coords="919,5,1111,61"/>
+<area shape="rect" id="node6" href="$classveins_1_1_f_w_math.html#aa66a76d454bf3d91d8ec390c4737a7a1" title="Returns the remainder r on division of dividend a by divisor n, using floored division." alt="" coords="1159,20,1335,47"/>
+</map>

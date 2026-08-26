@@ -1,0 +1,6 @@
+<map id="veins::getMCS" name="veins::getMCS">
+<area shape="rect" id="node1" title="returns encoding given datarate" alt="" coords="547,46,661,73"/>
+<area shape="rect" id="node2" href="$classveins_1_1_nist_error_rate.html#a25b315284a666a5065540f8f1da1cbe5" title=" " alt="" coords="290,5,465,47"/>
+<area shape="rect" id="node3" href="$classveins_1_1_mac1609__4.html#a30fbd72a0e286f24dd07bbd14b5c043b" title=" " alt="" coords="256,71,499,112"/>
+<area shape="rect" id="node4" href="$classveins_1_1_mac1609__4.html#a8d43b34c9fb0b918e447343e5fc344d4" title="States of the channel selecting operation." alt="" coords="5,78,208,105"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="veins::TraCIMobility::fixIfHostGetsOutside" name="veins::TraCIMobility::fixIfHostGetsOutside">
+<area shape="rect" id="node1" title="called after each read to check for (and handle) invalid positions" alt="" coords="403,5,569,47"/>
+<area shape="rect" id="node2" href="$classveins_1_1_tra_c_i_mobility.html#a3137899bb330551c9823c40b4ed8b8fc" title=" " alt="" coords="204,5,355,47"/>
+<area shape="rect" id="node3" href="$classveins_1_1_tra_c_i_mobility.html#ae53642be0d88b9f146cf55a5d990f1a2" title=" " alt="" coords="5,5,156,47"/>
+</map>

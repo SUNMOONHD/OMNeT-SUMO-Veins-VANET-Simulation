@@ -1,0 +1,8 @@
+<map id="veins::TraCIMobility" name="veins::TraCIMobility">
+<area shape="rect" id="node1" title="Used in modules created by the TraCIScenarioManager." alt="" coords="54,304,205,331"/>
+<area shape="rect" id="node2" href="$classveins_1_1_base_mobility.html" title="Base module for all mobility modules." alt="" coords="54,229,205,256"/>
+<area shape="rect" id="node3" href="$classveins_1_1_battery_access.html" title="Extends BaseModule by several methods which provide access to the battery module." alt="" coords="50,155,209,181"/>
+<area shape="rect" id="node4" href="$classveins_1_1_base_module.html" title="Base class for all simple modules of a host." alt="" coords="57,80,202,107"/>
+<area shape="rect" id="node5" title=" " alt="" coords="5,5,128,32"/>
+<area shape="rect" id="node6" title=" " alt="" coords="153,5,234,32"/>
+</map>

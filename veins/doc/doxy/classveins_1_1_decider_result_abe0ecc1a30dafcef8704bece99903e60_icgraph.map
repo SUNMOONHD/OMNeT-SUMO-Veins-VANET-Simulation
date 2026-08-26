@@ -1,0 +1,4 @@
+<map id="veins::DeciderResult::isSignalCorrect" name="veins::DeciderResult::isSignalCorrect">
+<area shape="rect" id="node1" title="A Function that returns a very basic result about the Signal." alt="" coords="216,5,372,47"/>
+<area shape="rect" id="node2" href="$classveins_1_1_decider80211p.html#a389f17ab33d4fc22b499593fa0837faf" title="Processes a received AirFrame." alt="" coords="5,5,168,47"/>
+</map>

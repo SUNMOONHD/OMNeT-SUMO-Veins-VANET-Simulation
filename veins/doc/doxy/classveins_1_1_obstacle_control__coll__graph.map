@@ -1,0 +1,7 @@
+<map id="veins::ObstacleControl" name="veins::ObstacleControl">
+<area shape="rect" id="node1" title="ObstacleControl models obstacles that block radio transmissions." alt="" coords="532,56,701,83"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,5,128,32"/>
+<area shape="rect" id="node3" href="$classveins_1_1_annotation_manager.html" title="manages annotations on the OMNeT++ canvas." alt="" coords="177,31,371,57"/>
+<area shape="rect" id="node4" href="$classveins_1_1_b_box_lookup.html" title="Fast grid&#45;based spatial datastructure to find obstacles (geometric shapes) in a bounding box." alt="" coords="201,81,347,108"/>
+<area shape="rect" id="node5" href="$classveins_1_1_annotation_manager_1_1_group.html" title=" " alt="" coords="177,133,371,174"/>
+</map>

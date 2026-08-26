@@ -1,0 +1,59 @@
+# ==== OMNeT++ / Veins 编译产物 ====
+*.o
+*.obj
+*.so
+*.dll
+*.a
+*.lib
+*.exe
+*.out
+*.app
+
+# Veins 编译生成的文件
+veins/src/**/*.o
+veins/src/**/*.d
+veins/out/
+veins/*.exe
+veins/*.dll
+
+# ==== 仿真结果文件 ====
+*.vec
+*.sca
+*.vci
+*.elog
+*.log
+*.tkenv
+*.cmdenv
+results/
+
+# ==== OMNeT++ IDE 项目文件（可选，如团队使用不同 IDE 可忽略）====
+.oppbuildspec
+.oppfeaturestate
+.cproject
+.project
+.nedfolders
+.settings/
+.csettings/
+.metadata/
+*.launch
+
+# ==== SUMO 中间文件 ====
+*.trips.xml
+*.rou.alt.xml
+*.sta.xml
+*.dump.xml
+*.edges.xml
+*.weight.xml
+
+# ==== 数据集文件（体积大，根据需要选择性上传）====
+# 如果需要上传数据集，请注释掉下一行，或改为具体排除路径
+# veins/examples/**/datasets/
+
+# ==== 临时文件 ====
+*.tmp
+*.temp
+*.bak
+*.swp
+*~
+.DS_Store
+Thumbs.db

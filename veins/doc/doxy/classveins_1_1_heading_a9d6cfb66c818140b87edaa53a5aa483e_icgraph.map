@@ -1,0 +1,6 @@
+<map id="veins::Heading::fromCoord" name="veins::Heading::fromCoord">
+<area shape="rect" id="node1" title="Converts Coord to heading (with x pointing east and y pointing south)." alt="" coords="493,46,689,73"/>
+<area shape="rect" id="node2" href="$classveins_1_1_mobile_host_obstacle.html#a68f0e2e0e3d53d5f9a0f4dda6d169f3b" title=" " alt="" coords="249,5,445,47"/>
+<area shape="rect" id="node4" href="$classveins_1_1_channel_access.html#a152e2780da20c82d3751d521142a5f90" title="Called by the signalling mechanism to inform of changes." alt="" coords="266,71,429,112"/>
+<area shape="rect" id="node3" href="$classveins_1_1_mobile_host_obstacle.html#aed1945c5faca9c93208913d9bf9abf79" title="return closest point (in meters) along (senderPos–receiverPos) where this obstacle overlaps,..." alt="" coords="5,5,201,47"/>
+</map>

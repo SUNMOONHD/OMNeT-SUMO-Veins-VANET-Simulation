@@ -1,0 +1,9 @@
+<map id="veins::BaseLayer::handleMessage" name="veins::BaseLayer::handleMessage">
+<area shape="rect" id="node1" title="Called every time a message arrives." alt="" coords="5,169,191,211"/>
+<area shape="rect" id="node2" href="$classveins_1_1_base_layer.html#a61b647d5c030ba1b9a433e86c9faa48a" title="Handle control messages from lower layer." alt="" coords="239,5,424,47"/>
+<area shape="rect" id="node3" href="$classveins_1_1_base_layer.html#a3ea3bc153bc1e987eb9fa3b9eaeb2bce" title="Handle messages from lower layer." alt="" coords="239,71,424,112"/>
+<area shape="rect" id="node4" href="$classveins_1_1_base_layer.html#a215376a4259416145ddf74444937161b" title="Handle self messages such as timer..." alt="" coords="239,136,424,177"/>
+<area shape="rect" id="node5" href="$classveins_1_1_base_layer.html#a6dfe8aca6c874ee299bfd9ee9c8283d2" title="Handle control messages from upper layer." alt="" coords="239,201,424,243"/>
+<area shape="rect" id="node6" href="$classveins_1_1_base_layer.html#a69c14c083e420c38a313894452c88fa7" title="Handle messages from upper layer." alt="" coords="239,267,424,308"/>
+<area shape="rect" id="node7" href="$classveins_1_1_base_layer.html#a33f4f320f4b6c4ec48651847338ff47f" title=" " alt="" coords="240,332,423,373"/>
+</map>

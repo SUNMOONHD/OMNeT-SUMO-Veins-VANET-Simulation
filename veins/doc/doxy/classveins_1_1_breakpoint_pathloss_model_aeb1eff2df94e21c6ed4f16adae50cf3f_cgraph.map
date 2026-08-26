@@ -1,0 +1,6 @@
+<map id="veins::BreakpointPathlossModel::filterSignal" name="veins::BreakpointPathlossModel::filterSignal">
+<area shape="rect" id="node1" title="Filters a specified AirFrame&#39;s Signal by adding an attenuation over time to the Signal." alt="" coords="5,64,196,105"/>
+<area shape="rect" id="node2" href="$classveins_1_1_antenna_position.html#a08154432e1365873de146371cc996948" title="Get the (linearly extrapolated) position at time t." alt="" coords="266,5,437,47"/>
+<area shape="rect" id="node3" href="$classveins_1_1_signal.html#a42a8f0fb95c9ea08ff0a6a16df37ae14" title="Get this signal&#39;s receiver POA." alt="" coords="244,71,459,98"/>
+<area shape="rect" id="node4" href="$classveins_1_1_signal.html#a3110835239b852cf44bd59356be3fcc3" title="Get this signal&#39;s sender POA." alt="" coords="250,122,453,149"/>
+</map>

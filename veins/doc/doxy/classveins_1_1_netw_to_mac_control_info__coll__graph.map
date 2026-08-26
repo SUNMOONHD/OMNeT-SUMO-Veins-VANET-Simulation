@@ -1,0 +1,4 @@
+<map id="veins::NetwToMacControlInfo" name="veins::NetwToMacControlInfo">
+<area shape="rect" id="node1" title="Control info to pass next hop L2 addr from netw to MAC layer." alt="" coords="5,80,217,107"/>
+<area shape="rect" id="node2" title=" " alt="" coords="76,5,147,32"/>
+</map>

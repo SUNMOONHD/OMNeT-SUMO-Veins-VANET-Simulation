@@ -1,0 +1,4 @@
+<map id="veins::BaseDecider::processNewSignal" name="veins::BaseDecider::processNewSignal">
+<area shape="rect" id="node1" title="Processes a new Signal." alt="" coords="200,5,349,47"/>
+<area shape="rect" id="node2" href="$classveins_1_1_base_decider.html#a8b488dcd86bfc2749763682ea3589800" title="Processes an AirFrame given by the PhyLayer." alt="" coords="5,5,152,47"/>
+</map>

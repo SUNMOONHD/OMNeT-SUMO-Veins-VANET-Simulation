@@ -1,0 +1,4 @@
+<map id="veins::TraCIVehicleInserter::insertVehicles" name="veins::TraCIVehicleInserter::insertVehicles">
+<area shape="rect" id="node1" title="tries to add all vehicles in the vehicle queue to SUMO;" alt="" coords="249,5,445,47"/>
+<area shape="rect" id="node2" href="$classveins_1_1_tra_c_i_vehicle_inserter.html#a556643617ac2a26a96baebed9ece0595" title=" " alt="" coords="5,5,201,47"/>
+</map>

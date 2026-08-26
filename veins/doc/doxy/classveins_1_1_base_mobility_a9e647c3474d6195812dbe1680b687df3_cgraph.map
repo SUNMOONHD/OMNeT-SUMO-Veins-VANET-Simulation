@@ -1,0 +1,4 @@
+<map id="veins::BaseMobility::getCurrentOrientation" name="veins::BaseMobility::getCurrentOrientation">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,177,47"/>
+<area shape="rect" id="node2" href="$classveins_1_1_move.html#a4964ba2446c15664192067c88f3157c1" title="Returns the orientation vector, i.e." alt="" coords="225,13,428,39"/>
+</map>

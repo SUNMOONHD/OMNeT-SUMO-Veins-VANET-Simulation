@@ -1,0 +1,6 @@
+<map id="veins::BaseWorldUtility" name="veins::BaseWorldUtility">
+<area shape="rect" id="node1" title="Provides information and utility methods for the whole simulation." alt="" coords="5,171,180,197"/>
+<area shape="rect" id="node2" title=" " alt="" coords="10,81,133,108"/>
+<area shape="rect" id="node3" href="$classveins_1_1_coord.html" title="Class for storing 3D coordinates." alt="" coords="157,81,260,108"/>
+<area shape="rect" id="node4" title=" " alt="" coords="173,5,244,32"/>
+</map>

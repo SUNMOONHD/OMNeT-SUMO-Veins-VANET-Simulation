@@ -1,0 +1,9 @@
+<map id="veins::MacToPhyInterface::setRadioState" name="veins::MacToPhyInterface::setRadioState">
+<area shape="rect" id="node1" title="Tells the BasePhyLayer to switch to the specified radio state." alt="" coords="1000,35,1188,76"/>
+<area shape="rect" id="node2" href="$classveins_1_1_mac1609__4.html#a9c988936349c36370a7b6f282227a734" title="Handle control messages from lower layer." alt="" coords="747,5,938,47"/>
+<area shape="rect" id="node3" href="$classveins_1_1_mac1609__4.html#ae8c4ff04987993a2dfec9d6371b572c8" title=" " alt="" coords="733,71,952,98"/>
+<area shape="rect" id="node4" href="$classveins_1_1_mac1609__4.html#a50663c27a2a1782c618309345687e142" title="Handle self messages such as timers." alt="" coords="489,35,679,76"/>
+<area shape="rect" id="node5" href="$classveins_1_1_mac1609__4.html#a5d98cfbe6173ce7094c464fcdd3a944d" title=" " alt="" coords="483,101,685,127"/>
+<area shape="rect" id="node6" href="$classveins_1_1_mac1609__4.html#ab30f200fd2432b7b98653e7892f6ebd9" title=" " alt="" coords="244,93,435,135"/>
+<area shape="rect" id="node7" href="$classveins_1_1_mac1609__4.html#aa33e88d786741d77a486617749ddf6d0" title="Handle messages from lower layer." alt="" coords="5,93,196,135"/>
+</map>

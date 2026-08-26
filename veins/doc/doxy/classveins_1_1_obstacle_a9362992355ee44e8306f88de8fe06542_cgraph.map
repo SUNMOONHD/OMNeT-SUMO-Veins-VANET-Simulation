@@ -1,0 +1,5 @@
+<map id="veins::Obstacle::getIntersections" name="veins::Obstacle::getIntersections">
+<area shape="rect" id="node1" title="get a list of points (in [0, 1]) along the line between sender and receiver where the beam intersects..." alt="" coords="5,35,240,61"/>
+<area shape="rect" id="node2" href="$classveins_1_1_obstacle.html#a6e4559fb9e1dcf379cf347b8378fc6b5" title=" " alt="" coords="323,5,513,32"/>
+<area shape="rect" id="node3" href="$namespaceanonymous__namespace_02_obstacle_8cc_03.html#a46da0e8b4beb911bde581d7997d7312c" title=" " alt="" coords="288,57,548,98"/>
+</map>

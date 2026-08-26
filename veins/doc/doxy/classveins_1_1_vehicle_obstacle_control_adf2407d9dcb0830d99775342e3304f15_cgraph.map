@@ -1,0 +1,9 @@
+<map id="veins::VehicleObstacleControl::getVehicleAttenuationDZ" name="veins::VehicleObstacleControl::getVehicleAttenuationDZ">
+<area shape="rect" id="node1" title="compute attenuation due to vehicles." alt="" coords="5,49,223,90"/>
+<area shape="rect" id="node2" href="$classveins_1_1_signal.html#ac9b8c5004d4d0eaa4f5f6656dec9c7ba" title="Get the Spectrum this Signal is defined on." alt="" coords="543,5,739,32"/>
+<area shape="rect" id="node3" href="$classveins_1_1_vehicle_obstacle_control.html#aba9a4a4986cd0141c6bd5404069f9460" title="compute attenuation due to (single) vehicle." alt="" coords="271,78,488,119"/>
+<area shape="rect" id="node4" href="$classveins_1_1_signal.html#ae0890d174875e1a543f334165b0748c7" title="Get the power in milliwatt for the given frequency index." alt="" coords="577,56,704,83"/>
+<area shape="rect" id="node5" href="$classveins_1_1_spectrum.html#a17aa50791a5cd216f435169bf68f98b9" title=" " alt="" coords="553,107,728,133"/>
+<area shape="rect" id="node6" href="$classveins_1_1_signal.html#a87104706e2aecffa1146fe6b115e8450" title="Returns the number of power values stored in this signal." alt="" coords="536,157,745,184"/>
+<area shape="rect" id="node7" href="$classveins_1_1_base_world_utility.html#a425e4c8fac6fb8309ae2efd494a19fe6" title="Speed of light in meters per second." alt="" coords="553,209,728,250"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="veins::PhyLayer80211p::initializePERModel" name="veins::PhyLayer80211p::initializePERModel">
+<area shape="rect" id="node1" title="Creates a simple Packet Error Rate model that attenuates a percentage of the packets to zero,..." alt="" coords="277,5,451,47"/>
+<area shape="rect" id="node2" href="$classveins_1_1_phy_layer80211p.html#ae9a4ddccf5652f8376aee93c2be56730" title="Creates and returns an instance of the AnalogueModel with the specified name." alt="" coords="5,5,229,47"/>
+</map>

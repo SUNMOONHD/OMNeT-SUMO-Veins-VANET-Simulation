@@ -1,0 +1,11 @@
+<map id="veins::PhyLayer80211p::attachSignal" name="veins::PhyLayer80211p::attachSignal">
+<area shape="rect" id="node1" title="Attach a signal to the given AirFrame." alt="" coords="5,166,179,207"/>
+<area shape="rect" id="node2" href="$classveins_1_1_signal.html#ae0890d174875e1a543f334165b0748c7" title="Get the power in milliwatt for the given frequency index." alt="" coords="261,5,387,32"/>
+<area shape="rect" id="node3" href="$classveins_1_1_signal.html#afabbef1186e68d78d823798b028703e5" title="Get the duration." alt="" coords="229,56,419,83"/>
+<area shape="rect" id="node4" href="$classveins_1_1_phy_layer80211p.html#acb436445ef368188f4338fb2f197aaf9" title=" " alt="" coords="237,107,411,149"/>
+<area shape="rect" id="node6" href="$classveins_1_1_spectrum.html#a5c315bfce918bdc7896ef94a35ee9d7c" title=" " alt="" coords="231,173,417,200"/>
+<area shape="rect" id="node7" href="$classveins_1_1_signal.html#af89772fce12fd81475a0ecaacbaafd90" title="Set the center frequency position." alt="" coords="236,225,412,266"/>
+<area shape="rect" id="node8" href="$classveins_1_1_signal.html#addfd235698dd534e0d972ec762ae6d43" title="Change the data frequency range&#39;s end." alt="" coords="230,291,418,317"/>
+<area shape="rect" id="node9" href="$classveins_1_1_signal.html#a1c4dfcf7ecd2ecba44cef30f603ea68d" title="Change the data frequency range&#39;s start." alt="" coords="227,341,421,368"/>
+<area shape="rect" id="node5" href="$namespaceveins.html#acec18387f16de0bbed065607cb14f06a" title="returns the number of databits per ofdm symbol" alt="" coords="469,115,600,141"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="veins::BaseMacLayer::encapsMsg" name="veins::BaseMacLayer::encapsMsg">
+<area shape="rect" id="node1" title="Encapsulate the NetwPkt into an MacPkt." alt="" coords="213,5,373,47"/>
+<area shape="rect" id="node2" href="$classveins_1_1_base_mac_layer.html#a00e3c0935a4e53b889a1c32848f1fed0" title="Handle messages comming from the network layer." alt="" coords="5,5,165,47"/>
+</map>

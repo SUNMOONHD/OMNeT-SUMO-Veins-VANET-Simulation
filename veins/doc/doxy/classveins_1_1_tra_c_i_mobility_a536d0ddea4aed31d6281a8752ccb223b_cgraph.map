@@ -1,0 +1,6 @@
+<map id="veins::TraCIMobility::getHostSpeed" name="veins::TraCIMobility::getHostSpeed">
+<area shape="rect" id="node1" title="Returns the speed of the host (likely 0 if setHostSpeed==false)" alt="" coords="5,23,156,65"/>
+<area shape="rect" id="node2" href="$classveins_1_1_base_mobility.html#a3e1f7fde5dd3ba602725b30d861681af" title="Returns the current speed at the current simulation time." alt="" coords="204,23,355,65"/>
+<area shape="rect" id="node3" href="$classveins_1_1_move.html#a4b6924bf3edee91cb30397b832a84436" title="Returns the direction vector (which is unit less, because of normalization)." alt="" coords="403,5,592,32"/>
+<area shape="rect" id="node4" href="$classveins_1_1_move.html#a983899326db64c24fef47811e88c0216" title="Returns the current speed." alt="" coords="412,56,583,83"/>
+</map>

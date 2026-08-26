@@ -1,0 +1,4 @@
+<map id="veins::LAddress::isL2Broadcast" name="veins::LAddress::isL2Broadcast">
+<area shape="rect" id="node1" title="Test if a L2 address (pSrcAddr) is a broadcast address." alt="" coords="213,13,437,39"/>
+<area shape="rect" id="node2" href="$classveins_1_1_base_mac_layer.html#a65b38b9b47cec29bd5be9613271585c3" title="If message arrives from lower layer, check whether it is for us." alt="" coords="5,5,165,47"/>
+</map>

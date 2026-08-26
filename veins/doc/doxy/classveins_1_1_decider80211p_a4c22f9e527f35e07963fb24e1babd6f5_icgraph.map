@@ -1,0 +1,4 @@
+<map id="veins::Decider80211p::setCCAThreshold" name="veins::Decider80211p::setCCAThreshold">
+<area shape="rect" id="node1" title="sets the CCA threshold" alt="" coords="227,5,389,47"/>
+<area shape="rect" id="node2" href="$classveins_1_1_phy_layer80211p.html#a25b22bb2ebf223a188fd2df7e136b2ed" title="Set the carrier sense threshold." alt="" coords="5,5,179,47"/>
+</map>

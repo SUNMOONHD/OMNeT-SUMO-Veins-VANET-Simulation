@@ -1,0 +1,6 @@
+<map id="veins::VehicleObstacleControl" name="veins::VehicleObstacleControl">
+<area shape="rect" id="node1" title="VehicleObstacleControl models moving obstacles that block radio transmissions." alt="" coords="77,185,294,212"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,5,128,32"/>
+<area shape="rect" id="node3" href="$classveins_1_1_annotation_manager.html" title="manages annotations on the OMNeT++ canvas." alt="" coords="89,89,282,115"/>
+<area shape="rect" id="node4" href="$classveins_1_1_annotation_manager_1_1_group.html" title=" " alt="" coords="306,81,499,123"/>
+</map>

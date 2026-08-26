@@ -1,0 +1,7 @@
+<map id="veins::LAddress::L2BROADCAST" name="veins::LAddress::L2BROADCAST">
+<area shape="rect" id="node1" title="Broadcast address for L2 addresses." alt="" coords="244,111,473,138"/>
+<area shape="rect" id="node2" href="$classveins_1_1_mac1609__4.html#aa33e88d786741d77a486617749ddf6d0" title="Handle messages from lower layer." alt="" coords="5,5,196,47"/>
+<area shape="rect" id="node3" href="$classveins_1_1_mac1609__4.html#a50663c27a2a1782c618309345687e142" title="Handle self messages such as timers." alt="" coords="5,71,196,112"/>
+<area shape="rect" id="node4" href="$classveins_1_1_mac1609__4_1_1_e_d_c_a.html#a10a3c354dd97eb3b7b1d6a374494b2be" title=" " alt="" coords="9,136,192,177"/>
+<area shape="rect" id="node5" href="$classveins_1_1_base_mac_layer.html#a8dc38af88b372b6c7c17c7da73d326db" title="Sets the MAC address of this MAC module." alt="" coords="21,201,181,243"/>
+</map>

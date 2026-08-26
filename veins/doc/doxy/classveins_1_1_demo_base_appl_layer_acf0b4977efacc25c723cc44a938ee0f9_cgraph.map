@@ -1,0 +1,13 @@
+<map id="veins::DemoBaseApplLayer::receiveSignal" name="veins::DemoBaseApplLayer::receiveSignal">
+<area shape="rect" id="node1" title=" " alt="" coords="5,39,207,80"/>
+<area shape="rect" id="node2" href="$classveins_1_1_demo_base_appl_layer.html#ab5cc9db685df1f2f180359af47a3140c" title="this function is called every time the vehicle parks or starts moving again" alt="" coords="255,5,456,47"/>
+<area shape="rect" id="node4" href="$classveins_1_1_demo_base_appl_layer.html#a384db2de57cd12b3b5bab48f255bcea7" title="this function is called every time the vehicle receives a position update signal" alt="" coords="255,71,456,112"/>
+<area shape="rect" id="node3" href="$classveins_1_1_tra_c_i_mobility.html#aedb0d434725c9a1f5363a1f2409f6d2a" title=" " alt="" coords="504,5,655,47"/>
+<area shape="rect" id="node5" href="$classveins_1_1_tra_c_i_mobility.html#ad6be6b3f578a4402f4f7dfefe0b89d31" title="Calling this method on pointers of type TraCIMobility is deprecated in favor of calling either getHos..." alt="" coords="504,71,655,112"/>
+<area shape="rect" id="node9" href="$classveins_1_1_base_mobility.html#abd802d0e5d919085a5422b99cd7c377d" title="Returns the current position at the given simulation time." alt="" coords="504,136,655,177"/>
+<area shape="rect" id="node6" href="$classveins_1_1_base_mobility.html#a3e1f7fde5dd3ba602725b30d861681af" title="Returns the current speed at the current simulation time." alt="" coords="725,71,876,112"/>
+<area shape="rect" id="node7" href="$classveins_1_1_move.html#a4b6924bf3edee91cb30397b832a84436" title="Returns the direction vector (which is unit less, because of normalization)." alt="" coords="947,31,1136,58"/>
+<area shape="rect" id="node8" href="$classveins_1_1_move.html#a983899326db64c24fef47811e88c0216" title="Returns the current speed." alt="" coords="956,82,1127,109"/>
+<area shape="rect" id="node10" href="$classveins_1_1_move.html#a2d86d39dfd7dedf10af25f1e42863d09" title="Returns the position of the Move (Host) at the specified point in time." alt="" coords="703,143,899,170"/>
+<area shape="rect" id="node11" href="$namespaceveins_1_1math.html#a8e7bde81401ddc00bf062333bf217491" title="Compare two floats for approximate equality." alt="" coords="965,136,1117,177"/>
+</map>

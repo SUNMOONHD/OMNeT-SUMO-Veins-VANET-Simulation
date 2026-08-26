@@ -1,0 +1,12 @@
+<map id="veins::BaseMobility::iconSizeToTag" name="veins::BaseMobility::iconSizeToTag">
+<area shape="rect" id="node1" title="Maps the passed size in pixels to an appropriate icon size tag (is)." alt="" coords="609,104,760,145"/>
+<area shape="rect" id="node2" href="$classveins_1_1_base_mobility.html#a291eed23c07d4693a5fa4164aa80934e" title="Update the position information for this node." alt="" coords="411,104,561,145"/>
+<area shape="rect" id="node3" href="$classveins_1_1_tra_c_i_mobility.html#a3137899bb330551c9823c40b4ed8b8fc" title=" " alt="" coords="212,5,363,47"/>
+<area shape="rect" id="node5" href="$classveins_1_1_base_mobility.html#a1cd10753592e8eeb018d8f774ce862c6" title="Called upon arrival of a border messages." alt="" coords="212,71,363,112"/>
+<area shape="rect" id="node7" href="$classveins_1_1_base_mobility.html#a70b2b357a4cef14850cd4edd440a13a7" title="Called upon arrival of a self messages." alt="" coords="212,136,363,177"/>
+<area shape="rect" id="node8" href="$classveins_1_1_base_mobility.html#ac865e9d430a27e6a3076c0d9293fef35" title="Initializes mobility model parameters." alt="" coords="212,201,363,243"/>
+<area shape="rect" id="node4" href="$classveins_1_1_tra_c_i_mobility.html#ae53642be0d88b9f146cf55a5d990f1a2" title=" " alt="" coords="9,5,160,47"/>
+<area shape="rect" id="node6" href="$classveins_1_1_base_mobility.html#a64b618ee6a35eaebfcfba7d9266be4c8" title="This modules should only receive self&#45;messages." alt="" coords="9,87,160,128"/>
+<area shape="rect" id="node9" href="$classveins_1_1_linear_mobility.html#ac94ebc62ac059949810368634398004b" title="Initializes mobility model parameters." alt="" coords="5,184,164,225"/>
+<area shape="rect" id="node10" href="$classveins_1_1_tra_c_i_mobility.html#a9945ece48d11a01a7973f991b467e848" title=" " alt="" coords="9,249,160,291"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="veins::MacToPhyInterface" name="veins::MacToPhyInterface">
+<area shape="rect" id="node1" title="Defines the methods provided by the phy to the mac layer." alt="" coords="5,5,193,32"/>
+<area shape="rect" id="node2" href="$classveins_1_1_base_phy_layer.html" title="The BasePhyLayer represents the physical layer of a nic." alt="" coords="21,80,178,107"/>
+<area shape="rect" id="node3" href="$classveins_1_1_phy_layer80211p.html" title="Adaptation of the PhyLayer class for 802.11p." alt="" coords="13,155,186,181"/>
+</map>

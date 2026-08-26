@@ -1,0 +1,6 @@
+<map id="veins::TraCIScenarioManagerForker" name="veins::TraCIScenarioManagerForker">
+<area shape="rect" id="node1" title="Extends the TraCIScenarioManager to automatically fork an instance of SUMO when needed." alt="" coords="57,155,268,196"/>
+<area shape="rect" id="node2" href="$classveins_1_1_tra_c_i_scenario_manager.html" title="Creates and moves nodes controlled by a TraCI server." alt="" coords="57,80,268,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,5,128,32"/>
+<area shape="rect" id="node4" title=" " alt="" coords="152,5,365,32"/>
+</map>

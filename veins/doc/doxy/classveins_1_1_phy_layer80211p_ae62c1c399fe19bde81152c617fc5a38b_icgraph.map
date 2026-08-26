@@ -1,0 +1,4 @@
+<map id="veins::PhyLayer80211p::initializeDecider80211p" name="veins::PhyLayer80211p::initializeDecider80211p">
+<area shape="rect" id="node1" title="Initializes a new Decider80211 from the passed parameter map." alt="" coords="227,5,411,47"/>
+<area shape="rect" id="node2" href="$classveins_1_1_phy_layer80211p.html#a2c50b013088841608612b0a7c8b92799" title="Creates and returns an instance of the Decider with the specified name." alt="" coords="5,5,179,47"/>
+</map>

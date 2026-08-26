@@ -1,0 +1,4 @@
+<map id="veins::makeTraCICommand" name="veins::makeTraCICommand">
+<area shape="rect" id="node1" title="returns byte&#45;buffer containing a TraCI command with optional parameters" alt="" coords="5,5,207,32"/>
+<area shape="rect" id="node2" href="$classveins_1_1_tra_c_i_buffer.html#ad05f91f4550a6e3c45042c1fc5811e94" title=" " alt="" coords="255,5,417,32"/>
+</map>

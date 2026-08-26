@@ -1,0 +1,4 @@
+<map id="veins::TraCIMobility::calculateHostPosition" name="veins::TraCIMobility::calculateHostPosition">
+<area shape="rect" id="node1" title="Calculates where the OMNeT++ module position of this car should be, given its front bumper position." alt="" coords="5,5,176,47"/>
+<area shape="rect" id="node2" href="$classveins_1_1_heading.html#ab8b7aeac07a2db68ce07b4074b6cf37d" title="Returns Coord of a unit vector (with x pointing east and y pointing south)." alt="" coords="224,13,403,39"/>
+</map>

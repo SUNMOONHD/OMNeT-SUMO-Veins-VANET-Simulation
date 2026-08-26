@@ -1,0 +1,5 @@
+<map id="veins::BaseMacLayer::setMACAddress" name="veins::BaseMacLayer::setMACAddress">
+<area shape="rect" id="node1" title="Sets the MAC address of this MAC module." alt="" coords="5,23,165,65"/>
+<area shape="rect" id="node2" href="$classveins_1_1_l_address.html#a563a2292dc181aeaf98dada1c6a84222" title="Broadcast address for L2 addresses." alt="" coords="213,5,443,32"/>
+<area shape="rect" id="node3" href="$classveins_1_1_l_address.html#aa4c72481eb930988da1272c5867ff401" title="NULL address for L2 addresses." alt="" coords="237,56,419,83"/>
+</map>

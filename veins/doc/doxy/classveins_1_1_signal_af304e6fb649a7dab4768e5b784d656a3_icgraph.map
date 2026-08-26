@@ -1,0 +1,4 @@
+<map id="veins::Signal::hasTiming" name="veins::Signal::hasTiming">
+<area shape="rect" id="node1" title="Predicate which indicates presence of timing information." alt="" coords="232,5,412,32"/>
+<area shape="rect" id="node2" href="$classveins_1_1_signal.html#ac678bd99ea970d0135330ccaa8458736" title="Create a copy of another signal." alt="" coords="5,5,184,32"/>
+</map>
